@@ -10,6 +10,8 @@ variables with your actual MailChimp API Key and List ID below
 */
 
 // Set to "mailchimp" to store contacts in MailChimp or "file" to store in a file.
+use \DrewM\MailChimp\MailChimp;
+
 $STORE_MODE = "mailchimp";
 
 // Path to file. Please make sure that the script has write permissions on this file.
@@ -69,13 +71,13 @@ if($_SERVER["REQUEST_METHOD"] == "POST" && !empty($_POST["email"])) {
             // Store in mailchimp
         } elseif ($STORE_MODE == "mailchimp") { // Store with MailChimp
             // Use MailChimp API to store
-            $MailChimp = new \Drewm\MailChimp($API_KEY);
+            /*$MailChimp = new \Drewm\MailChimp($API_KEY);
 
             $result = $MailChimp->call('lists/'.subscribe, array(
                 'id'                => $LIST_ID,
                 'email'             => array('email'=>$email),
                 'merge_vars'		=> array('fname'=>$fname, 'lname'=>$lname, 'country'=>$country),
-                'double_optin'      => true,
+                'double_optin'      => false,
                 'update_existing'   => true,
                 'replace_interests' => false,
                 'send_welcome'      => false,
@@ -94,16 +96,16 @@ if($_SERVER["REQUEST_METHOD"] == "POST" && !empty($_POST["email"])) {
                     "status" => "error",
                     "type" => $result["name"]
                 ));
-            }
+            }*/
             // Use MailChimp API to store
-            /*$MailChimp = new MailChimp($API_KEY);
+            $MailChimp = new MailChimp($API_KEY);
 
             $result = $MailChimp->post('/lists/'.$LIST_ID.'/members/', array(
                 'email_address'     => $email,
                 'merge_fields'		=> ['FNAME'=>$fname, 'LNAME'=>$lname, 'COUNTRY'=>$country],
                 'location'			=> ['country_code'=>$country],
                 'status'            => 'subscribed',
-                'double_optin'      => true,
+                'double_optin'      => false,
             ));
 
             // Create a response
@@ -119,7 +121,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST" && !empty($_POST["email"])) {
                     "status" => "error",
                     "type" => $result["title"]
                 ));
-            }*/
+            }
 
             // Error
         } else {
