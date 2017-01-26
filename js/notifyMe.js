@@ -72,7 +72,9 @@
 						// Determine the status of response and display the message
 						if(data.status == 404) {
 							message.text(settings.msgError404);
-						} else {
+						} else if(data.status == 400) {
+                            message.text(settings.msgErrorMemberExists);
+                        } else {
 							message.text(settings.msgError503);
 						}
 					},

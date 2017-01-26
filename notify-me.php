@@ -118,6 +118,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST" && !empty($_POST["email"])) {
                 ));
                 // Error
             } else {
+                header('Status: 400 Forbidden');
                 echo json_encode(array(
                     "status" => "error",
                     "type" => $result["title"],
