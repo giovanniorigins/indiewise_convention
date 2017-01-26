@@ -16,7 +16,7 @@
 			msgErrorMemberExists: "You are already a list member. Thanks for signing up!",
 			msgErrorValidation: "This email address looks fake or invalid. Please enter a real email address.",
 			msgErrorFormat: "Your e-mail address is incorrect. Please check it and try again.",
-			msgSuccess: "Congrats! We will notify you when we're ready to Launch"
+			msgSuccess: "Congrats! We will notify you when registration begins"
 		}, options );
 
     
