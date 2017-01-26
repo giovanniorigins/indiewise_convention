@@ -10,7 +10,6 @@ variables with your actual MailChimp API Key and List ID below
 */
 
 // Set to "mailchimp" to store contacts in MailChimp or "file" to store in a file.
-use \DrewM\MailChimp\MailChimp;
 
 $STORE_MODE = "mailchimp";
 
@@ -34,7 +33,8 @@ All the work runs below
 
 
 // Include MailChimp API
-require('lib/MailChimp.php');
+//require('lib/MailChimp.php');
+require('vendor/drewm/mailchimp-api/src/MailChimp.php');
 
 // Allow only post method
 if($_SERVER["REQUEST_METHOD"] == "POST" && !empty($_POST["email"])) {
@@ -98,7 +98,8 @@ if($_SERVER["REQUEST_METHOD"] == "POST" && !empty($_POST["email"])) {
                 ));
             }*/
             // Use MailChimp API to store
-            $MailChimp = new MailChimp($API_KEY);
+            $MailChimp = new \DrewM\MailChimp\MailChimp($API_KEY);
+//            $MailChimp->verify_ssl = false;
 
             $result = $MailChimp->post('/lists/'.$LIST_ID.'/members/', array(
                 'email_address'     => $email,
@@ -119,7 +120,8 @@ if($_SERVER["REQUEST_METHOD"] == "POST" && !empty($_POST["email"])) {
             } else {
                 echo json_encode(array(
                     "status" => "error",
-                    "type" => $result["title"]
+                    "type" => $result["title"],
+                    "detail" => $result["detail"]
                 ));
             }
 
