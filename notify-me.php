@@ -106,7 +106,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST" && !empty($_POST["email"])) {
                 'merge_fields'		=> ['FNAME'=>$fname, 'LNAME'=>$lname, 'COUNTRY'=>$country],
                 'location'			=> ['country_code'=>$country],
                 'status'            => 'subscribed',
-                'double_optin'      => false,
+                'double_optin'      => true,
             ));
 
             // Create a response
