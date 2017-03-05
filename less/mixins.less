@@ -1,22 +1,20 @@
-.border-radius(@radius) {
-	-moz-border-radius: @radius;
-	-webkit-border-radius: @radius;
-	-o-border-radius: @radius;
-	border-radius: @radius;
-}
+// Mixins
+// --------------------------------------------------
 
-.clearfix() {
-	&:after {
-		content: ' ';
-		display: block;
-		clear: both;
-		height: 0px;
-		width: 0px;
-	}
-}
+// Utilities
+@import "mixins/hide-text.less";
+@import "mixins/opacity.less";
+@import "mixins/functions.less";
 
-.border-box() {
-	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
-	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
-	box-sizing: border-box;         /* Opera/IE 8+ */
-}
+@import "mixins/size.less";
+@import "mixins/vendor-prefixes.less";
+
+// Components
+@import "mixins/buttons.less";
+
+// Skins
+@import "mixins/gradients.less";
+
+// Layout
+@import "mixins/clearfix.less";
+@import "mixins/center-block.less";
