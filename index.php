@@ -329,7 +329,7 @@
 									     data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
 									     data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
 									     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">
-										<span class="logo-font">IndieWise <span class="text-default">Convention</span></span>
+										<span class="logo-font">Grand <span class="text-default">IndieWise</span> Convention</span>
 									</div>
 
 									<!-- LAYER NR. 2 -->
