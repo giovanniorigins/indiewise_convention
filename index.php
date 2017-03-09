@@ -149,7 +149,7 @@
 									<ul class="list-inline hidden-sm hidden-xs">
 										<!--<li><i class="fa fa-map-marker pr-5 pl-10"></i>One Infinity Loop Av, Tk 123456</li>-->
 										<!--<li><i class="fa fa-phone pr-5 pl-10"></i>+12 123 123 123</li>-->
-										<li><i class="fa fa-envelope-o pr-5 pl-10"></i> convention@getindiewise.com</li>
+										<li><i class="fa fa-envelope-o pr-5 pl-10"></i> <a href="mailto:convention@getindiewise.com">convention@getindiewise.com</a></li>
 									</ul>
 								</div>
 								<!-- header-top-first end -->
