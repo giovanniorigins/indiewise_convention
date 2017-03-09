@@ -763,7 +763,7 @@
 									</div>-->
 								</div>
 								<div class="body">
-									<h3>Steven Chun</h3>
+									<h3>Steven Chun, pga</h3>
 									<div class="separator"></div>
 									<h5>Phusol Studios</h5>
 									<p></p>
