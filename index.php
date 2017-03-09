@@ -804,7 +804,7 @@
 								<div class="body">
 									<h3>Aaron Johnson</h3>
 									<div class="separator"></div>
-									<h5>Writer and Director</h5>
+									<h5>Motivational Speaker & Award Winning Filmmaker</h5>
 									<p></p>
 									<a data-toggle="modal" data-target="#BioModal7" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
 								</div>
