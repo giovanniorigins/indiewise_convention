@@ -509,7 +509,7 @@
 								<div class="body">
 									<h3>Jarrod Knowles</h3>
 									<div class="separator"></div>
-									<h5>IndieWise</h5>
+									<h5>Founder of IndieWise & WideScreen Festival</h5>
 									<p></p>
 										<a data-toggle="modal" data-target="#BioModal" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
 								</div>
