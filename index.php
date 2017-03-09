@@ -70,7 +70,7 @@
 		<!-- Use css/rtl_typography-default.css for RTL version -->
 		<link href="css/typography-default.css" rel="stylesheet" >
 		<!-- Color Scheme (In order to change the color scheme, replace the blue.css with the color scheme that you prefer)-->
-		<link href="css/skins/light_blue.css" rel="stylesheet">
+		<link href="css/skins/indiewise.css" rel="stylesheet">
 		
 
 		<!-- Custom css --> 
@@ -394,6 +394,7 @@
 									     data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power4.easeInOut;"data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
 									     data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
 									     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">Registration Starts Sunday, March 19th
+										<br><small style="font-size: 60%">Miami, Florida</small>
 									</div>
 
 									<!-- LAYER NR. 5 -->
