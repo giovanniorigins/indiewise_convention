@@ -432,17 +432,24 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
-							<h2 class="text-center">Join Us for <br> 1st <strong>Grand</strong> IndieWise <strong>Convention</strong></h2>
+							<h2 class="text-center">Join Us for the <br> 1st <strong>Grand</strong> IndieWise <strong>Convention</strong></h2>
 							<div class="separator"></div>
-							<p class="large text-center">Join us August 24-27 in Sunny South Florida. Registration will be open soon - be sure to catch the early bird price!</p>
+							<p class="large text-center">Join us August 24-27 in Sunny South Florida. <br>
+								Registration will be open soon - be sure to catch the early bird price!</p>
 						</div>
-						<div class="col-md-4 text-center">
+						<div class="col-md-2 text-center">
 							<a href="#" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Register</a>
 						</div>
-						<div class="col-md-4 text-center">
+						<div class="col-md-3 text-center">
+							<a href="#" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Become a Sponsor</a>
+						</div>
+						<div class="col-md-2 text-center">
 							<a href="#" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Learn More</a>
 						</div>
-						<div class="col-md-4 text-center">
+						<div class="col-md-3 text-center">
+							<a href="#" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Donate Today</a>
+						</div>
+						<div class="col-md-2 text-center">
 							<a href="#" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Book Hotel</a>
 						</div>
 					</div>
