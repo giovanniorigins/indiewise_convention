@@ -437,6 +437,8 @@
 							<p class="large text-center">Join us August 24-27 in Sunny South Florida. <br>
 								Registration will be open soon - be sure to catch the early bird price!</p>
 						</div>
+					</div>
+					<div class="row">
 						<div class="col-md-2 text-center">
 							<a href="#" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Register</a>
 						</div>
