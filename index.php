@@ -214,7 +214,7 @@
 				<!-- "full-width": mandatory class for the full-width menu layout -->
 				<!-- "centered": mandatory class for the centered logo layout -->
 				<!-- ================ --> 
-				<header class="header  fixed    clearfix">
+				<header class="header fixed clearfix">
 					
 					<div class="container">
 						<div class="row">
@@ -272,6 +272,21 @@
 													</li>
 													<li>
 														<a href="#">Register Soon</a>
+													</li>
+													<li>
+														<a href="#">Event Schedule</a>
+													</li>
+													<li>
+														<a href="#">Book Hotel</a>
+													</li>
+													<li>
+														<a href="#">Sponsors</a>
+													</li>
+													<li>
+														<a href="#">Our Story</a>
+													</li>
+													<li>
+														<a href="#">Contact Us</a>
 													</li>
 												</ul>
 												<!-- main-menu end -->
@@ -372,7 +387,7 @@
 									     data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
 									     data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
 									     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">
-										<span class="text-rotator" data-rotator-animation-effect="fadeIn">Join The Fun</span>
+										<span class="text-rotator" data-rotator-animation-effect="fadeIn"><strong>Join The Fun</strong></span>
 									</div>
 
 									<!-- LAYER NR. 4 -->
