@@ -685,7 +685,7 @@
 								<div class="body">
 									<h3>Jim Eimmerman</h3>
 									<div class="separator"></div>
-									<h5>Legendary Writer & Director</h5>
+									<h5>Still Point Films</h5>
 									<p></p>
 									<a data-toggle="modal" data-target="#BioModal8" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
 								</div>
@@ -712,8 +712,6 @@
 												and post-production, emphasizing story first to benefit all latter aspects of production.
 												With multiple productions in the pipeline covering a variety of genres and themes, Still
 												Point Films continues to move forward through timeless storytelling.</p>
-
-
 										</div>
 										<div class="modal-footer">
 											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
@@ -806,7 +804,7 @@
 								<div class="body">
 									<h3>Aaron Johnson</h3>
 									<div class="separator"></div>
-									<h5>Indie Film Writer and Director</h5>
+									<h5>Writer and Director</h5>
 									<p></p>
 									<a data-toggle="modal" data-target="#BioModal7" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
 								</div>
