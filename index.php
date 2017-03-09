@@ -76,8 +76,16 @@
 		<!-- Custom css --> 
 		<link href="css/custom.css" rel="stylesheet">
 		<script src="https://api.filestackapi.com/filestack.js"></script>
+		<script src="https://static.filestackapi.com/v3/filestack-0.2.0.js"></script>
 		<script>
             filepicker.setKey('APbjTx44SlSuCI6P58jwvz');
+            /*var client = filestack.init('APbjTx44SlSuCI6P58jwvz');
+            client.pick({
+                accept: 'image/!*',
+                maxFiles: 10,
+            }).then(function(result) {
+                console.log(JSON.stringify(result.filesUploaded))
+            })*/
 		</script>
 	</head>
 
@@ -664,6 +672,168 @@
 								</div>
 							</div>
 						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-3">
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/ethNMqQWTZCx9HQSPxau?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Jim Eimmerman</h3>
+									<div class="separator"></div>
+									<h5>Legendary Writer & Director</h5>
+									<p></p>
+									<a data-toggle="modal" data-target="#BioModal8" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal 3 -->
+							<div class="modal fade" id="BioModal8" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Jim Eimmerman's Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p>James Eimmerman is a focused individual with a passion for filmmaking, theology, and
+												education. He is driven with the motivation to conceive, produce and exhibit works
+												that will entertain audiences through purposeful and universal cinematic storytelling.
+												His short film series Force-Full Imagination has successfully screened at over 20 film
+												festivals worldwide. It has also gained online distribution on Stan Lee’s World of Heroes
+												and earned the recognition of Disney/Lucasfilm and starwars.com garnering the Spirit
+												of Fandom Award at the Star Wars Fan Film Awards in 2015.</p>
+											<p>Jim is also the founder of Still Point Films, a production company striving to entertain
+												audiences through the eyes of the heart. Still Point Films currently specializes in pre
+												and post-production, emphasizing story first to benefit all latter aspects of production.
+												With multiple productions in the pipeline covering a variety of genres and themes, Still
+												Point Films continues to move forward through timeless storytelling.</p>
+
+
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-3">
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/nC4USnhCSfyLyAmmCznq?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Steven Chun</h3>
+									<div class="separator"></div>
+									<h5>Phusol Studios</h5>
+									<p></p>
+									<a data-toggle="modal" data-target="#BioModal5" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal 3 -->
+							<div class="modal fade" id="BioModal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Steven Chun's Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p>Under his production company, Phusol Studios, Steven Daniel Chun develops, finances and finds distribution for narrative film, television, and digital content for any platform. Prior to his own company, Steven Chun was a Digital Producer in Los Angeles, marketing high profile properties for  studios Disney and Warner Bros. He produced digital marketing creatives for popular titles such as “Pirates: At the World’s End”, “Wall-E”, “Up”, “Snow White”, “300”, “Batman Begins”,  as well as major TV titles such as “Hannah Montana”, “OC”, “West Wing”, and “Friends”. He is currently a member of the Producers Guild of America.</p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-3">
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/7o6eOZ07QeCCQOj8RGbC?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Devanny Pinn</h3>
+									<div class="separator"></div>
+									<h5>Jaguar Motion Pictures</h5>
+									<p></p>
+									<a data-toggle="modal" data-target="#BioModal6" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal 3 -->
+							<div class="modal fade" id="BioModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Devanny Pinn's Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p></p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-3">
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/tmYzJ6yPQNy2NqgMjRIC?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Aaron Johnson</h3>
+									<div class="separator"></div>
+									<h5>Indie Film Writer and Director</h5>
+									<p></p>
+									<a data-toggle="modal" data-target="#BioModal7" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal 3 -->
+							<div class="modal fade" id="BioModal7" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Aaron Johnson's Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p>Driven. Focused. Motivated. These words are synonymous with high achievers, but they are just the tip of the iceberg in describing Aaron Johnson. A child prodigy by the age of 9-years-old, his quest to build a media empire encompasses everything from shooting movies to editing them. Born and raised in Miami, FL, the city’s cultural diversities has laid the foundation for Aaron’s artistic proclivities and powerful creations. With a love for telling stories and a plethora of resources to pull from in South Beach, he finds spontaneous inspiration from his surroundings on a daily basis. Making films that impact the minds and emotions of his viewers, his influential style of moviemaking is a visual representation of the talents he has honed over the years. His first professional project, Lost, which he crafted at the age of the 13-years-old, opened to rave reviews in AMC Theatres during the Wide-Screen Film & Music Festival with over 500 people in attendance. A go-getter for sure, Aaron is serious when it comes to his career, dreams, and goals. With a growing fan base of loyal supporters, his vision is to leave a lasting legacy that changes the worlds of individuals through his ability to live out his passions by way of his gifts. Aaron believes that you are never too young to pursue your purpose. “You are the only person that can stop you from achieving that goal or that dream.” Johnson’s objectives extend beyond establishing himself as a media mogul. He understands the importance of giving back. Aaron plans to mentor filmmakers through a training program for youth that empowers them to follow their passions, just as he was able to follow his six years ago. Aaron has a heart for story telling and has parlayed that ability into a niche in the entertainment industry. With a work ethic that keeps him creating constantly, he is a rising star with no sigh of tiring in sight.</p>
+
+
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
 					</div>
 				</div>
 			</section>
