@@ -314,7 +314,7 @@
 								<li class="text-center" data-transition="fade" data-slotamount="1" data-masterspeed="500" data-saveperformance="off">
 
 									<!-- main image -->
-									<img src="./media/img.jpg" alt="slidebg1" data-bgposition="center bottom" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+									<img src="./images/HOTEL/newport3.jpg" alt="slidebg1" data-bgposition="center bottom" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 
 									<!-- Transparent Background -->
 									<div class="tp-caption dark-translucent-bg"
@@ -330,7 +330,7 @@
 									<!-- LAYER NR. 1 -->
 									<div class="tp-caption large_white"
 									     data-x="center"
-									     data-y="110"
+									     data-y="100"
 									     data-start="0"
 									     data-transform_idle="o:1;"
 									     data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power4.easeInOut;"
@@ -338,6 +338,17 @@
 									     data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
 									     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">
 										<span class="logo-font">Grand <span class="text-default">IndieWise</span> Convention</span>
+									</div>
+
+									<!-- SUB-LAYER NR. 1-->
+									<div class="tp-caption medium_white"
+									     data-x="center"
+									     data-y="145"
+									     data-start="400"
+									     data-transform_idle="o:1;"
+									     data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power4.easeInOut;"data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+									     data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
+									     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">August 24-27
 									</div>
 
 									<!-- LAYER NR. 2 -->
@@ -361,7 +372,7 @@
 									     data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
 									     data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
 									     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">
-										<span class="text-rotator" data-rotator-animation-effect="fadeIn">You be the Judge</span>
+										<span class="text-rotator" data-rotator-animation-effect="fadeIn">Join The Fun</span>
 									</div>
 
 									<!-- LAYER NR. 4 -->
