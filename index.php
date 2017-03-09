@@ -271,16 +271,13 @@
 														<a href="/">Home</a>
 													</li>
 													<li>
-														<a href="#">Register Soon</a>
+														<a href="#">Register</a>
 													</li>
 													<li>
-														<a href="#">Event Schedule</a>
+														<a href="#">Schedule</a>
 													</li>
 													<li>
 														<a href="#">Book Hotel</a>
-													</li>
-													<li>
-														<a href="#">Sponsors</a>
 													</li>
 													<li>
 														<a href="#">Our Story</a>
