@@ -123,7 +123,7 @@
 								<div class="header-top-first clearfix">
 									<ul class="social-links circle small clearfix hidden-xs">
 										<li class="twitter"><a target="_blank" href="https://twitter.com/getindiewise"><i class="fa fa-twitter"></i></a></li>
-										<!--<li class="skype"><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>-->
+										<li class="googleplus"><a target="_blank" href="https://www.instagram.com/getindiewise/"><i class="fa fa-instagram"></i></a></li>
 										<!--<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>-->
 										<!--<li class="googleplus"><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>-->
 										<!--<li class="youtube"><a target="_blank" href="http://www.youtube.com"><i class="fa fa-youtube-play"></i></a></li>-->
@@ -135,13 +135,13 @@
 										<div class="btn-group dropdown">
 											<button type="button" class="btn dropdown-toggle" data-toggle="dropdown"><i class="fa fa-share-alt"></i></button>
 											<ul class="dropdown-menu dropdown-animation">
-												<li class="twitter"><a target="_blank" href="http://www.twitter.com/getindiewise"><i class="fa fa-twitter"></i></a></li>
-												<!--<li class="skype"><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>-->
+												<li class="twitter"><a target="_blank" href="https://www.twitter.com/getindiewise"><i class="fa fa-twitter"></i></a></li>
+												<li class="googleplus"><a target="_blank" href="https://www.instagram.com/getindiewise/"><i class="fa fa-instagram"></i></a></li>
 												<!--<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>-->
 												<!--<li class="googleplus"><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>-->
 												<!--<li class="youtube"><a target="_blank" href="http://www.youtube.com"><i class="fa fa-youtube-play"></i></a></li>-->
 												<!--<li class="flickr"><a target="_blank" href="http://www.flickr.com"><i class="fa fa-flickr"></i></a></li>-->
-												<li class="facebook"><a target="_blank" href="http://www.facebook.com/getindiewise"><i class="fa fa-facebook"></i></a></li>
+												<li class="facebook"><a target="_blank" href="https://www.facebook.com/getindiewise"><i class="fa fa-facebook"></i></a></li>
 												<!--<li class="pinterest"><a target="_blank" href="http://www.pinterest.com"><i class="fa fa-pinterest"></i></a></li>-->
 											</ul>
 										</div>
@@ -866,6 +866,101 @@
 						</div>
 
 					</div>
+					<div class="row">
+						<div class="col-sm-3">
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/tZyZwc73SCCIdc570yrl?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Rolando Viñas</h3>
+									<div class="separator"></div>
+									<h5>Gorilla Studios</h5>
+									<p></p>
+									<a data-toggle="modal" data-target="#BioModal9" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal 3 -->
+							<div class="modal fade" id="BioModal9" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Rolando Viñas' Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p>
+												Rolando Viñas is a Miami native with a background in screenwriting. He is the writer/producer of the Horror feature 'Investigation 13' and teaches the subject of screenwriting at Miami Dade College. He is currently adapting the novel REDEMPTION by Ian Prattis and set to produce it in Canada in 2018.
+											</p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-3">
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/B7kDWITYTYehA2dDgzba?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Ellen Jacoby, CSA</h3>
+									<div class="separator"></div>
+									<h5>Ellen Jacoby Casting International</h5>
+									<p></p>
+									<a data-toggle="modal" data-target="#BioModal10" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal 3 -->
+							<div class="modal fade" id="BioModal10" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Ellen Jacoby's Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p>Ellen is a Miami native, having been raised in New Jersey and making her way full circle back to home base.  A former professional singer and dancer, she had the ability to travel the world as an international backgammon champion, before returning to her beloved hometown, in the 1980’s.
+
+												With her committed 24/7 schedule, Ellen finds time to lecture; teach and coach acting courses; devote her time to various local charities, including Cystic Fibrosis and the YWCA; has worked with the local Police to provide alternative life style programs for youth with rap sheets; and often donates her time to give lectures to various schools throughout the state.  She was part of the initial local consortium to recognize how important the Caribbean, and the Bahamas, were to the local Florida production business, and subsequently has worked with the Bahamian government on numerous productions, that brought work to Florida residents and companies.
+
+												There isn’t a movie-goer around the world whose image of South Beach isn’t the bikini-clad women, roller skaters and pretty people of “The Birdcage”, or the zany-ness of Jim Carrey’s “Ace Ventura” as he makes his way around South Florida, or the unusual charisma of “There’s Something About Mary” as it became an instant cult “classic”. . . or the vision of a space shuttle launch in “Contact” at Cape Canaveral. . .or  Harrier jets taking off from the 7 mile bridge in the Keys in “True Lies.”   And all of these were Ellen Jacoby-cast feature films…
+
+												Having worked with a who’s who of Hollywood directors, including: Steven Soderbergh, Joel Schumacher, Sidney Pollack, The Farrelly Bros., Bob Zemekis, Ron Howard, Mike Nicols, Michael Bay, Randa Haines, Tom Shadyac, Martin Scorsese, Tim Burton, Garry Marshall, John Landis, James Cameron, Joe Roth, Mira Nair and Tony Scott, Ellen Jacoby is one name that Hollywood keeps at the tip of its tongues, and at the top of its address book.
+
+												And Ellen Jacoby is the reason the business keeps returning.  Some of her other projects include “Entourage” the movie (set for 2015 release), “A Change Of Heart,” “Plastic,” “Chef,” “Rock Of Ages,” and  TV series “Burn Notice,” “Justified,” and CSI: Miami.”
+											<p/><p>
+												Ellen Jacoby was appointed to the First Film Advisory Board, by Governor Jeb Bush, and named “Woman of the Millennium” by Miami Metro Magazine, and a former Mayor of Miami Beach proclaimed October 23rd as Ellen Jacoby Day.
+
+												She is the former Chair of the Infrastructure Committee of the GMCVB and is currently  the VP of the FFPC, Florida Film Production Coalition.  Ellen has traveled to Tallahassee to work with legislators regarding the Florida film incentives.
+
+												Most recently, on EJCI’s 25th anniversary, Ellen was presented with the Key to the City of Miami Beach.  She also received a Lifetime Achievement Award from her alma mater Franklin College.
+
+												As founder, and President, of Ellen Jacoby Casting International, a casting office with separate film, television, commercial and Hispanic divisions, Ellen has employed over 250,000 Florida actors, dancers, performers through the years…..
+
+												There are those who have come and gone in this business, and Ellen Jacoby has not only survived, she has flourished.
+											</p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 			</section>
 			<!-- section end -->
@@ -935,20 +1030,35 @@
 							</div>
 						</div>
 					</div>
-					<br>
-					<!--<div class="container">
+				</div>
+			</section>
+			<!-- section end -->
+
+			<section class="pv-30 light-gray-bg padding-bottom-clear">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<h2 class="text-center">Sponsors</h2>
+							<div class="separator"></div>
+							<!--<p class="large text-center">Atque ducimus velit, earum quidem, iusto dolorem. Ex ipsam totam quas blanditiis, pariatur maxime ipsa iste, doloremque neque doloribus, error. Corrupti, tenetur.</p>-->
+							<br>
+						</div>
+					</div>
+				</div>
+				<div class="space-bottom">
+					<div class="container">
 						<div class="clients-container">
 							<div class="clients">
 								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100">
-									<a href="#"><img src="images/client-1.png" alt=""></a>
+									<a href="http://tabletops.io"><img src="https://cdn.filepicker.io/api/file/DESwwGUBQiSQy8lRUWku?cache=true" alt="Tabletops"></a>
 								</div>
 								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="200">
-									<a href="#"><img src="images/client-2.png" alt=""></a>
+									<a href="https://filmfreeway.com/festival/widescreenfestival"><img src="https://cdn.filepicker.io/api/file/0LVOS06iQ2e8tnZWyuM9?cache=true" alt="Widescreen Festival"></a>
 								</div>
 								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="300">
-									<a href="#"><img src="images/client-3.png" alt=""></a>
+									<a href="https://getindiewise.com"><img src="https://getindiewise.com/assets/img/Logo_alt2_web_87x45.png" alt="IndieWise"></a>
 								</div>
-								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="400">
+								<!--<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="400">
 									<a href="#"><img src="images/client-4.png" alt=""></a>
 								</div>
 								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="500">
@@ -962,15 +1072,14 @@
 								</div>
 								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="800">
 									<a href="#"><img src="images/client-8.png" alt=""></a>
-								</div>
+								</div>-->
 							</div>
 						</div>
-					</div>-->
+					</div>
 				</div>
 			</section>
-			<!-- section end -->
 
-			<!-- footer start (Add "dark" class to #footer in order to enable dark footer) -->
+				<!-- footer start (Add "dark" class to #footer in order to enable dark footer) -->
 			<!-- ================ -->
 			<footer id="footer" class="clearfix ">
 
