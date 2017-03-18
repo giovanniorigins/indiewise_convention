@@ -284,7 +284,7 @@
 														<a href="#">Our Story</a>
 													</li>
 													<li>
-														<a href="#">Contact Us</a>
+														<a href="/contact.php">Contact Us</a>
 													</li>
 												</ul>
 												<!-- main-menu end -->
@@ -558,8 +558,11 @@
 											<h4 class="modal-title" id="myModalLabel">Jarrod Knowles' Bio</h4>
 										</div>
 										<div class="modal-body">
-											<p>Consectetur adipisicing elit. Nemo architecto debitis dolorum ullam in ut sint, odit maiores eaque explicabo, repellendus minima soluta sunt! Nisi minima blanditiis voluptate, ut atque.</p>
-												<p>Culpa expedita! Quisquam, itaque officiis nisi nam doloribus explicabo possimus, dolorum alias provident maxime temporibus, enim voluptatibus! Molestias, accusantium cum impedit sint velit exercitationem deserunt, corporis magni provident earum, ullam iusto voluptatem iste animi inventore ab cupiditate quod laborum quasi libero doloremque obcaecati eius. Ut, reprehenderit optio unde accusantium quia qui! Debitis delectus corporis aspernatur nemo aut, odio harum ea repellendus quidem, saepe, incidunt? Assumenda deserunt unde minima aspernatur ducimus velit molestiae, minus eius inventore, dolore temporibus odio distinctio optio.</p>
+											<p>Just a cool, short Bahamian dude with a tall ego...
+												<br><br>
+
+												#NuffSaid
+											</p>
 										</div>
 										<div class="modal-footer">
 											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
@@ -1015,7 +1018,7 @@
 								<div class="body">
 									<h3>Jared Jacobs</h3>
 									<div class="separator"></div>
-									<h5>Paradise Key Medi</h5>
+									<h5>Paradise Key Media</h5>
 									<p></p>
 									<a data-toggle="modal" data-target="#BioModal12" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
 								</div>

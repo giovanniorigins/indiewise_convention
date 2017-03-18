@@ -73,7 +73,9 @@
 		<link href="css/typography-default.css" rel="stylesheet" >
 		<!-- Color Scheme (In order to change the color scheme, replace the blue.css with the color scheme that you prefer)-->
 		<link href="css/skins/indiewise.css" rel="stylesheet">
-		
+
+		<!-- Google recaptcha -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 
 		<!-- Custom css --> 
 		<link href="css/custom.css" rel="stylesheet">
@@ -275,7 +277,7 @@
 													<li>
 														<a href="#">Register</a>
 													</li>
-													<li class="active">
+													<li>
 														<a href="/schedule.php">Schedule</a>
 													</li>
 													<li>
@@ -284,7 +286,7 @@
 													<li>
 														<a href="#">Our Story</a>
 													</li>
-													<li>
+													<li class="active">
 														<a href="/contact.php">Contact Us</a>
 													</li>
 												</ul>
@@ -311,68 +313,109 @@
 
 			<div id="page-start"></div>
 
-			<!-- section start -->
-			<!-- Registration - Call to Action -->
+			<!-- breadcrumb start -->
 			<!-- ================ -->
-			<section class="light-gray-bg pv-30 clearfix">
+			<div class="breadcrumb-container">
+				<div class="container">
+					<ol class="breadcrumb">
+						<li><i class="fa fa-home pr-10"></i><a class="link-dark" href="/">Home</a></li>
+						<li class="active">Contact</li>
+					</ol>
+				</div>
+			</div>
+			<!-- breadcrumb end -->
+
+			<!-- main-container start -->
+			<!-- ================ -->
+			<section class="main-container">
+
 				<div class="container">
 					<div class="row">
-						<div class="col-md-8 col-md-offset-2">
-							<h2 class="text-center"><strong>Grand</strong> IndieWise <strong>Convention</strong> Schedule</h2>
-							<div class="separator"></div>
+
+						<!-- main start -->
+						<!-- ================ -->
+						<div class="main col-md-8">
+							<!-- page-title start -->
+							<!-- ================ -->
+							<h1 class="page-title">Contact Us</h1>
+							<div class="separator-2"></div>
+							<!-- page-title end -->
+							<p>It would be great to hear from you! Just drop us a line and ask for anything with which you think we could be helpful. We are looking forward to hearing from you!</p>
+							<div class="alert alert-success hidden" id="MessageSent">
+								We have received your message, we will contact you very soon.
+							</div>
+							<div class="alert alert-danger hidden" id="MessageNotSent">
+								Oops! Something went wrong, please verify that you are not a robot or refresh the page and try again.
+							</div>
+							<div class="contact-form" >
+								<form id="contact-form-with-recaptcha" class="margin-clear" role="form" method="post" action="https://getindiewise.com/api/contact">
+									<div class="form-group has-feedback">
+										<label for="name">Name*</label>
+										<input type="text" class="form-control" id="name" name="name" placeholder="">
+										<i class="fa fa-user form-control-feedback"></i>
+									</div>
+									<div class="form-group has-feedback">
+										<label for="email">Email*</label>
+										<input type="email" class="form-control" id="email" name="email" placeholder="">
+										<i class="fa fa-envelope form-control-feedback"></i>
+									</div>
+									<div class="form-group has-feedback">
+										<label for="subject">Subject*</label>
+										<input type="text" class="form-control" id="subject" name="subject" placeholder="">
+										<i class="fa fa-navicon form-control-feedback"></i>
+									</div>
+									<div class="form-group has-feedback">
+										<label for="message">Message*</label>
+										<textarea class="form-control" rows="6" id="message" name="message" placeholder=""></textarea>
+										<i class="fa fa-pencil form-control-feedback"></i>
+									</div>
+									<div class="g-recaptcha" data-sitekey="6Lf7dRkUAAAAAJG9PNNLbqr5LJAbsw2HGD14ZIyS"></div>
+									<input type="email" hidden value="convention@getindiewise.com">
+									<input type="submit" value="Submit" class="submit-button btn btn-default">
+								</form>
+							</div>
 						</div>
-					</div>
-					<div class="row">
-						<div class="col-xs-12 text-center">
-							<div type="filepicker-preview" data-fp-url="https://www.filestackapi.com/api/file/B6WdZyL0QmeFPmSc3l7E?cache=true" style="width:100%; height:1000px"> </div>
-						</div>
+						<script>
+							function contactSubmit() {
+								debugger;
+                            }
+						</script>
+						<!-- main end -->
+
+						<!-- sidebar start -->
+						<!-- ================ -->
+						<aside class="col-md-4 col-lg-3 col-lg-offset-1">
+							<!--<div class="sidebar">
+								<div class="block clearfix">
+									<h3 class="title">Find Us</h3>
+									<div class="separator-2"></div>
+									<ul class="list">
+										<li><i class="fa fa-home pr-10"></i>795 Folsom Ave, Suite 600<br><span class="pl-20">San Francisco, CA 94107</span></li>
+										<li><i class="fa fa-phone pr-10"></i><abbr title="Phone">P:</abbr> (123) 456-7890</li>
+										<li><i class="fa fa-mobile pr-10 pl-5"></i><abbr title="Phone">M:</abbr> (123) 456-7890</li>
+										<li><i class="fa fa-envelope pr-10"></i><a href="mailto:info@idea.com">info@theproject.com</a></li>
+									</ul>
+									<a class="btn btn-gray collapsed map-show btn-animated" data-toggle="collapse" href="#collapseMap" aria-expanded="false" aria-controls="collapseMap">Show Map <i class="fa fa-plus"></i></a>
+								</div>
+							</div>-->
+							<div class="sidebar">
+								<div class="block clearfix">
+									<h2 class="title">Follow Us</h2>
+									<div class="separator-2"></div>
+									<ul class="social-links circle small margin-clear clearfix animated-effect-1">
+										<li class="twitter"><a target="_blank" href="https://twitter.com/getindiewise"><i class="fa fa-twitter"></i></a></li>
+										<li class="googleplus"><a target="_blank" href="https://www.instagram.com/getindiewise/"><i class="fa fa-instagram"></i></a></li>
+										<li class="facebook"><a target="_blank" href="https://www.facebook.com/getindiewise"><i class="fa fa-facebook"></i></a></li>
+									</ul>
+								</div>
+							</div>
+						</aside>
+						<!-- sidebar end -->
+
 					</div>
 				</div>
 			</section>
-			<!-- section end -->
-
-			<!-- section start -->
-			<!-- About -->
-			<!-- ================ -->
-			<!--<section class="pv-30 clearfix">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-8 col-md-offset-2">
-							<h2 class="text-center">About <strong>IndieWise</strong></h2>
-							<div class="separator"></div>
-							<p class="large text-center">The purpose of IndieWise is to allow for an open forum of independent filmmakers and artists who seek feedback on their work from peers and wish to also participate in the feedback and judging of other projects or works.</p>
-						</div>
-						&lt;!&ndash;<div class="col-md-4 ">
-							<div class="pv-30 ph-20 feature-box bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
-								<span class="icon default-bg circle"><i class="fa fa-diamond"></i></span>
-								<h3>Clean Code &amp; Design</h3>
-								<div class="separator clearfix"></div>
-								<p>Voluptatem ad provident non repudiandae beatae cupiditate amet reiciendis lorem ipsum dolor sit amet, consectetur.</p>
-								<a href="page-services.html">Read More <i class="pl-5 fa fa-angle-double-right"></i></a>
-							</div>
-						</div>
-						<div class="col-md-4 ">
-							<div class="pv-30 ph-20 feature-box bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="150">
-								<span class="icon default-bg circle"><i class="fa fa-connectdevelop"></i></span>
-								<h3>Extremely Flexible</h3>
-								<div class="separator clearfix"></div>
-								<p>Iure sequi unde hic. Sapiente quaerat sequi inventore veritatis cumque lorem ipsum dolor sit amet, consectetur.</p>
-								<a href="page-services.html">Read More <i class="pl-5 fa fa-angle-double-right"></i></a>
-							</div>
-						</div>
-						<div class="col-md-4 ">
-							<div class="pv-30 ph-20 feature-box bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="200">
-								<span class="icon default-bg circle"><i class="fa icon-snow"></i></span>
-								<h3>Latest Technologies</h3>
-								<div class="separator clearfix"></div>
-								<p>Inventore dolores aut laboriosam cum consequuntur delectus sequi lorem ipsum dolor sit amet, consectetur.</p>
-								<a href="page-services.html">Read More <i class="pl-5 fa fa-angle-double-right"></i></a>
-							</div>
-						</div>&ndash;&gt;
-					</div>
-				</div>
-			</section>-->
-			<!-- section end -->
+			<!-- main-container end -->
 
 			<section class="pv-30 light-gray-bg padding-bottom-clear">
 				<div class="container">
