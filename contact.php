@@ -283,7 +283,7 @@
 										<textarea class="form-control" rows="6" id="message" name="message" placeholder=""></textarea>
 										<i class="fa fa-pencil form-control-feedback"></i>
 									</div>
-<!--									<div class="g-recaptcha" data-sitekey="6Lf7dRkUAAAAAJG9PNNLbqr5LJAbsw2HGD14ZIyS"></div>-->
+									<div class="g-recaptcha" data-sitekey="6Lf7dRkUAAAAAJG9PNNLbqr5LJAbsw2HGD14ZIyS"></div>
 									<input type="email" name="to" id="to" hidden value="convention@getindiewise.com">
 									<input type="submit" value="Submit" class="submit-button btn btn-default">
 								</form>
