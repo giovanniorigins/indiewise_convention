@@ -215,50 +215,11 @@
 				<!-- "dark": dark version of header e.g. class="header dark clearfix" -->
 				<!-- "full-width": mandatory class for the full-width menu layout -->
 				<!-- "centered": mandatory class for the centered logo layout -->
-				<!-- ================ --> 
-				<header class="header fixed clearfix">
-					
-					<div class="container">
-						<div class="row">
-							<div class="col-md-3 ">
-								<!-- header-first start -->
-								<!-- ================ -->
-								<div class="header-first clearfix">
-									
-									<!-- logo -->
-									<div id="logo" class="logo">
-										<a href="index.php"><img id="logo_img" src="https://getindiewise.com/assets/img/Logo_alt2_web_87x45.png" alt="IndieWise" style="max-height: 55px;"></a>
-									</div>
-								</div>
-								<!-- header-first end -->
-
-							</div>
-							<div class="col-md-9">
-					
-								<!-- header-second start -->
-								<!-- ================ -->
-								<div class="header-second clearfix">
-									
-								<!-- main-navigation start -->
-								<!-- classes: -->
-								<!-- "onclick": Makes the dropdowns open on click, this the default bootstrap behavior e.g. class="main-navigation onclick" -->
-								<!-- "animated": Enables animations on dropdowns opening e.g. class="main-navigation animated" -->
-								<!-- "with-dropdown-buttons": Mandatory class that adds extra space, to the main navigation, for the search and cart dropdowns -->
-								<!-- ================ -->
-                                    <?php
-                                        $active = 'schedule';
-                                        require('partials/nav.php');
-                                    ?>
-								<!-- main-navigation end -->
-								</div>
-								<!-- header-second end -->
-					
-							</div>
-						</div>
-					</div>
-					
-				</header>
-				<!-- header end -->
+				<!-- ================ -->
+                <?php
+                    $active = 'schedule';
+                    require('partials/nav.php');
+                ?>				<!-- header end -->
 			</div>
 			<!-- header-container end -->
 
