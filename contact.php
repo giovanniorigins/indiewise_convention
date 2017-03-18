@@ -247,57 +247,10 @@
 								<!-- "animated": Enables animations on dropdowns opening e.g. class="main-navigation animated" -->
 								<!-- "with-dropdown-buttons": Mandatory class that adds extra space, to the main navigation, for the search and cart dropdowns -->
 								<!-- ================ -->
-								<div class="main-navigation  animated with-dropdown-buttons">
-
-									<!-- navbar start -->
-									<!-- ================ -->
-									<nav class="navbar navbar-default" role="navigation">
-										<div class="container-fluid">
-
-											<!-- Toggle get grouped for better mobile display -->
-											<div class="navbar-header">
-												<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
-													<span class="sr-only">Toggle navigation</span>
-													<span class="icon-bar"></span>
-													<span class="icon-bar"></span>
-													<span class="icon-bar"></span>
-												</button>
-												
-											</div>
-
-											<!-- Collect the nav links, forms, and other content for toggling -->
-											<div class="collapse navbar-collapse" id="navbar-collapse-1">
-												<!-- main-menu -->
-												<ul class="nav navbar-nav ">
-
-													<!-- mega-menu start -->
-													<li>
-														<a href="/">Home</a>
-													</li>
-													<li>
-														<a href="#">Register</a>
-													</li>
-													<li>
-														<a href="/schedule.php">Schedule</a>
-													</li>
-													<li>
-														<a href="#">Book Hotel</a>
-													</li>
-													<li>
-														<a href="#">Our Story</a>
-													</li>
-													<li class="active">
-														<a href="/contact.php">Contact Us</a>
-													</li>
-												</ul>
-												<!-- main-menu end -->
-											</div>
-
-										</div>
-									</nav>
-									<!-- navbar end -->
-
-								</div>
+                                    <?php
+                                        $active = 'contact';
+                                        require('partials/nav.php');
+                                    ?>
 								<!-- main-navigation end -->
 								</div>
 								<!-- header-second end -->
@@ -348,7 +301,7 @@
 								Oops! Something went wrong, please verify that you are not a robot or refresh the page and try again.
 							</div>
 							<div class="contact-form" >
-								<form id="contact-form-with-recaptcha" class="margin-clear" role="form" method="post" action="https://getindiewise.com/api/contact">
+								<form id="contact-form-with-recaptcha" class="margin-clear" role="form">
 									<div class="form-group has-feedback">
 										<label for="name">Name*</label>
 										<input type="text" class="form-control" id="name" name="name" placeholder="">
@@ -369,17 +322,12 @@
 										<textarea class="form-control" rows="6" id="message" name="message" placeholder=""></textarea>
 										<i class="fa fa-pencil form-control-feedback"></i>
 									</div>
-									<div class="g-recaptcha" data-sitekey="6Lf7dRkUAAAAAJG9PNNLbqr5LJAbsw2HGD14ZIyS"></div>
-									<input type="email" hidden value="convention@getindiewise.com">
+<!--									<div class="g-recaptcha" data-sitekey="6Lf7dRkUAAAAAJG9PNNLbqr5LJAbsw2HGD14ZIyS"></div>-->
+									<input type="email" name="to" id="to" hidden value="convention@getindiewise.com">
 									<input type="submit" value="Submit" class="submit-button btn btn-default">
 								</form>
 							</div>
 						</div>
-						<script>
-							function contactSubmit() {
-								debugger;
-                            }
-						</script>
 						<!-- main end -->
 
 						<!-- sidebar start -->
@@ -417,50 +365,9 @@
 			</section>
 			<!-- main-container end -->
 
-			<section class="pv-30 light-gray-bg padding-bottom-clear">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-8 col-md-offset-2">
-							<h2 class="text-center">Sponsors</h2>
-							<div class="separator"></div>
-							<!--<p class="large text-center">Atque ducimus velit, earum quidem, iusto dolorem. Ex ipsam totam quas blanditiis, pariatur maxime ipsa iste, doloremque neque doloribus, error. Corrupti, tenetur.</p>-->
-							<br>
-						</div>
-					</div>
-				</div>
-				<div class="space-bottom">
-					<div class="container">
-						<div class="clients-container">
-							<div class="clients">
-								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100">
-									<a href="http://tabletops.io"><img src="https://cdn.filepicker.io/api/file/DESwwGUBQiSQy8lRUWku?cache=true" alt="Tabletops"></a>
-								</div>
-								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="200">
-									<a href="https://filmfreeway.com/festival/widescreenfestival"><img src="https://cdn.filepicker.io/api/file/0LVOS06iQ2e8tnZWyuM9?cache=true" alt="Widescreen Festival"></a>
-								</div>
-								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="300">
-									<a href="https://getindiewise.com"><img src="https://getindiewise.com/assets/img/Logo_alt2_web_87x45.png" alt="IndieWise"></a>
-								</div>
-								<!--<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="400">
-									<a href="#"><img src="images/client-4.png" alt=""></a>
-								</div>
-								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="500">
-									<a href="#"><img src="images/client-5.png" alt=""></a>
-								</div>
-								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="600">
-									<a href="#"><img src="images/client-6.png" alt=""></a>
-								</div>
-								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="700">
-									<a href="#"><img src="images/client-7.png" alt=""></a>
-								</div>
-								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="800">
-									<a href="#"><img src="images/client-8.png" alt=""></a>
-								</div>-->
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
+			<!-- Sponsors Section -->
+            <?php require('partials/sponsors.php'); ?>
+			<!-- Sponsors Section END -->
 
 				<!-- footer start (Add "dark" class to #footer in order to enable dark footer) -->
 			<!-- ================ -->
@@ -521,6 +428,16 @@
 		<script type="text/javascript" src="js/template.js"></script>
 		<!-- Custom Scripts -->
 		<script type="text/javascript" src="js/custom.js"></script>
+
+		<script type="text/javascript">
+			var thisForm = $("#contact-form-with-recaptcha");
+            thisForm.validate({
+                submitHandler: function(form) {
+                    $.post('https://getindiewise.com/api/contact', thisForm.serialize());
+//                    form.submit();
+                }
+            });
+		</script>
 
 	</body>
 </html>

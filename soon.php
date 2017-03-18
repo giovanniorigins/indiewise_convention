@@ -246,8 +246,8 @@
 								<!-- "with-dropdown-buttons": Mandatory class that adds extra space, to the main navigation, for the search and cart dropdowns -->
 								<!-- ================ -->
                                     <?php
-                                        $active = 'schedule';
-                                        require('partials/nav.php');
+                                    $active = 'index';
+                                    require('partials/nav.php');
                                     ?>
 								<!-- main-navigation end -->
 								</div>
@@ -271,13 +271,8 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
-							<h2 class="text-center"><strong>Grand</strong> IndieWise <strong>Convention</strong> Schedule</h2>
+							<h1 class="text-center"><strong>Coming Shortly</h1>
 							<div class="separator"></div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-xs-12 text-center">
-							<div type="filepicker-preview" data-fp-url="https://www.filestackapi.com/api/file/B6WdZyL0QmeFPmSc3l7E?cache=true" style="width:100%; height:1000px"> </div>
 						</div>
 					</div>
 				</div>

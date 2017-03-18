@@ -214,96 +214,11 @@
 				<!-- "dark": dark version of header e.g. class="header dark clearfix" -->
 				<!-- "full-width": mandatory class for the full-width menu layout -->
 				<!-- "centered": mandatory class for the centered logo layout -->
-				<!-- ================ --> 
-				<header class="header fixed clearfix">
-					
-					<div class="container">
-						<div class="row">
-							<div class="col-md-3 ">
-								<!-- header-first start -->
-								<!-- ================ -->
-								<div class="header-first clearfix">
-									
-									<!-- logo -->
-									<div id="logo" class="logo">
-										<a href="index.php"><img id="logo_img" src="https://getindiewise.com/assets/img/Logo_alt2_web_87x45.png" alt="IndieWise" style="max-height: 55px;"></a>
-									</div>
-								</div>
-								<!-- header-first end -->
-
-							</div>
-							<div class="col-md-9">
-					
-								<!-- header-second start -->
-								<!-- ================ -->
-								<div class="header-second clearfix">
-									
-								<!-- main-navigation start -->
-								<!-- classes: -->
-								<!-- "onclick": Makes the dropdowns open on click, this the default bootstrap behavior e.g. class="main-navigation onclick" -->
-								<!-- "animated": Enables animations on dropdowns opening e.g. class="main-navigation animated" -->
-								<!-- "with-dropdown-buttons": Mandatory class that adds extra space, to the main navigation, for the search and cart dropdowns -->
-								<!-- ================ -->
-								<div class="main-navigation  animated with-dropdown-buttons">
-
-									<!-- navbar start -->
-									<!-- ================ -->
-									<nav class="navbar navbar-default" role="navigation">
-										<div class="container-fluid">
-
-											<!-- Toggle get grouped for better mobile display -->
-											<div class="navbar-header">
-												<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
-													<span class="sr-only">Toggle navigation</span>
-													<span class="icon-bar"></span>
-													<span class="icon-bar"></span>
-													<span class="icon-bar"></span>
-												</button>
-												
-											</div>
-
-											<!-- Collect the nav links, forms, and other content for toggling -->
-											<div class="collapse navbar-collapse" id="navbar-collapse-1">
-												<!-- main-menu -->
-												<ul class="nav navbar-nav ">
-
-													<!-- mega-menu start -->
-													<li class="active">
-														<a href="/">Home</a>
-													</li>
-													<li>
-														<a href="#">Register</a>
-													</li>
-													<li>
-														<a href="/schedule.php">Schedule</a>
-													</li>
-													<li>
-														<a href="#">Book Hotel</a>
-													</li>
-													<li>
-														<a href="#">Our Story</a>
-													</li>
-													<li>
-														<a href="/contact.php">Contact Us</a>
-													</li>
-												</ul>
-												<!-- main-menu end -->
-											</div>
-
-										</div>
-									</nav>
-									<!-- navbar end -->
-
-								</div>
-								<!-- main-navigation end -->
-								</div>
-								<!-- header-second end -->
-					
-							</div>
-						</div>
-					</div>
-					
-				</header>
+				<!-- ================ -->
+				<?php
+					$active = 'index';
+					require('partials/nav.php');
+				?>
 				<!-- header end -->
 			</div>
 			<!-- header-container end -->
@@ -460,13 +375,13 @@
 							<a href="#" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Become a Sponsor</a>
 						</div>
 						<div class="col-md-2 text-center">
-							<a href="/schedule.php" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Learn More</a>
+							<a href="https://www.facebook.com/events/1580028138960728" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Learn More</a>
 						</div>
 						<div class="col-md-3 text-center">
-							<a href="#" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Donate Today</a>
+							<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2T8RKYZ4P8L42" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Donate Today</a>
 						</div>
 						<div class="col-md-2 text-center">
-							<a href="#" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Book Hotel</a>
+							<a href="/soon.php" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Book Hotel</a>
 						</div>
 					</div>
 				</div>
@@ -1210,50 +1125,9 @@
 			</section>
 			<!-- section end -->
 
-			<section class="pv-30 light-gray-bg padding-bottom-clear">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-8 col-md-offset-2">
-							<h2 class="text-center">Sponsors</h2>
-							<div class="separator"></div>
-							<!--<p class="large text-center">Atque ducimus velit, earum quidem, iusto dolorem. Ex ipsam totam quas blanditiis, pariatur maxime ipsa iste, doloremque neque doloribus, error. Corrupti, tenetur.</p>-->
-							<br>
-						</div>
-					</div>
-				</div>
-				<div class="space-bottom">
-					<div class="container">
-						<div class="clients-container">
-							<div class="clients">
-								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100">
-									<a href="http://tabletops.io"><img src="https://cdn.filepicker.io/api/file/DESwwGUBQiSQy8lRUWku?cache=true" alt="Tabletops"></a>
-								</div>
-								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="200">
-									<a href="https://filmfreeway.com/festival/widescreenfestival"><img src="https://cdn.filepicker.io/api/file/0LVOS06iQ2e8tnZWyuM9?cache=true" alt="Widescreen Festival"></a>
-								</div>
-								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="300">
-									<a href="https://getindiewise.com"><img src="https://getindiewise.com/assets/img/Logo_alt2_web_87x45.png" alt="IndieWise"></a>
-								</div>
-								<!--<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="400">
-									<a href="#"><img src="images/client-4.png" alt=""></a>
-								</div>
-								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="500">
-									<a href="#"><img src="images/client-5.png" alt=""></a>
-								</div>
-								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="600">
-									<a href="#"><img src="images/client-6.png" alt=""></a>
-								</div>
-								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="700">
-									<a href="#"><img src="images/client-7.png" alt=""></a>
-								</div>
-								<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="800">
-									<a href="#"><img src="images/client-8.png" alt=""></a>
-								</div>-->
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
+			<!-- Sponsors Section -->
+			<?php require('partials/sponsors.php'); ?>
+			<!-- Sponsors Section END -->
 
 				<!-- footer start (Add "dark" class to #footer in order to enable dark footer) -->
 			<!-- ================ -->
