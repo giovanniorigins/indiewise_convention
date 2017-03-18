@@ -23,13 +23,13 @@
             <div class="clients-container">
                 <div class="clients">
                     <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100">
-                        <a href="http://tabletops.io"><img src="https://cdn.filepicker.io/api/file/DESwwGUBQiSQy8lRUWku?cache=true" alt="Tabletops"></a>
+                        <a href="http://tabletops.io" target="_blank"><img src="https://cdn.filepicker.io/api/file/DESwwGUBQiSQy8lRUWku?cache=true" alt="Tabletops"></a>
                     </div>
                     <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="200">
-                        <a href="https://filmfreeway.com/festival/widescreenfestival"><img src="https://cdn.filepicker.io/api/file/0LVOS06iQ2e8tnZWyuM9?cache=true" alt="Widescreen Festival"></a>
+                        <a href="https://filmfreeway.com/festival/widescreenfestival" target="_blank"><img src="https://cdn.filepicker.io/api/file/0LVOS06iQ2e8tnZWyuM9?cache=true" alt="Widescreen Festival"></a>
                     </div>
                     <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="300">
-                        <a href="https://getindiewise.com"><img src="https://getindiewise.com/assets/img/default_video_thumbnail.jpg" class="img-responsive" alt="IndieWise"></a>
+                        <a href="https://getindiewise.com" target="_blank"><img src="https://getindiewise.com/assets/img/Logo_alt2.png" class="img-responsive" alt="IndieWise"></a>
                     </div>
                     <!--<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="400">
                         <a href="#"><img src="images/client-4.png" alt=""></a>
