@@ -1,3 +1,4 @@
+<?php //require 'vendor/autoload.php'; ?>
 <!DOCTYPE html>
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
 <!--[if gt IE 9]> <html lang="en" class="ie"> <![endif]-->
@@ -225,7 +226,7 @@
 									
 									<!-- logo -->
 									<div id="logo" class="logo">
-										<a href="index.html"><img id="logo_img" src="https://getindiewise.com/assets/img/Logo_alt2_web_87x45.png" alt="IndieWise" style="max-height: 55px;"></a>
+										<a href="index.php"><img id="logo_img" src="https://getindiewise.com/assets/img/Logo_alt2_web_87x45.png" alt="IndieWise" style="max-height: 55px;"></a>
 									</div>
 								</div>
 								<!-- header-first end -->
@@ -274,7 +275,7 @@
 														<a href="#">Register</a>
 													</li>
 													<li>
-														<a href="#">Schedule</a>
+														<a href="/schedule.php">Schedule</a>
 													</li>
 													<li>
 														<a href="#">Book Hotel</a>
@@ -459,7 +460,7 @@
 							<a href="#" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Become a Sponsor</a>
 						</div>
 						<div class="col-md-2 text-center">
-							<a href="#" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Learn More</a>
+							<a href="/schedule.php" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Learn More</a>
 						</div>
 						<div class="col-md-3 text-center">
 							<a href="#" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Donate Today</a>
@@ -531,7 +532,7 @@
 				</div>
 				<div class="space-bottom">
 					<div class="row">
-						<div class="col-sm-3">
+						<div class="col-sm-3"><!-- Jarrod Knowles -->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
 									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/JhBOvk30QaKClS3DXhjA?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
@@ -568,7 +569,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-sm-3">
+						<div class="col-sm-3"><!-- Jamie Lee Smith -->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
 									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/otvnRFSMQHSw9LWOhjEi?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
@@ -609,7 +610,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-sm-3">
+						<div class="col-sm-3"><!-- George E. Fernandez -->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
 									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/bMPDo424T6CDCJLOnrdN?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
@@ -647,7 +648,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-sm-3">
+						<div class="col-sm-3"><!-- William Grefe -->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
 									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/D50easRY6WC5fjbWzOQi?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
@@ -707,7 +708,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-sm-3">
+						<div class="col-sm-3"><!-- Jim Eimmerman -->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
 									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/ethNMqQWTZCx9HQSPxau?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
@@ -754,7 +755,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-sm-3">
+						<div class="col-sm-3"><!-- Steven Chun -->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
 									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/nC4USnhCSfyLyAmmCznq?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
@@ -790,7 +791,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-sm-3">
+						<div class="col-sm-3"><!-- Devanny Pinn -->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
 									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/7o6eOZ07QeCCQOj8RGbC?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
@@ -816,7 +817,14 @@
 											<h4 class="modal-title" id="myModalLabel">Devanny Pinn's Bio</h4>
 										</div>
 										<div class="modal-body">
-											<p></p>
+											<p>Devanny Pinn is an actress and producer hailing from Los Angeles, California who is best known for her work in independent horror cinema. A performer since the age of 3, Devanny grew up in New Jersey starring in musical and ballet productions. She began college with an Opera scholarship and shortly after landed her first lead role in feature film. She has been working consistently since, having been dubbed a “Scream Queen” by media and appears in over 50 horror films and counting. She has shared the screen with such genre vets as Linda Blair, Kane Hodder, Danny Trejo and Sid Haig and portrayed infamous characters such as Manson family member 'Susan Atkins' and murder suspect 'Casey Anthony'.
+											</p>
+											<p>Having found a love for film behind the camera as well, Devanny wanted to learn more about her business and began producing features. She became VP for an international sales agency and worked in acquisitions for a domestic distribution company. In 2011 she co-founded 'Micro Bay Features' and has produced 8 feature films which are completed and available on various Bluray, DVD and VOD platforms worldwide. Her productions have also received awards and nominations from festivals around the world including "The California Film Awards", "Canada Int Film Festival", "Snowdance", "European Independent Film Festival" and "Action on Film" as well as received support from major trades such as The Hollywood Reporter, Vanity Fair France and Rolling Stone Brazil.
+											</p>
+											<p>Devanny is excited about a transition into the action genre with her new production company Jaguar Motion Pictures. Their upcoming release "Crossbreed" features actress Vivica A. Fox as the first African American woman to ever portray the President of the United States in a film.
+											</p>
+											<p>Devanny intends to branch out into television production next year and continues to assist other filmmakers with development and distribution. She hopes to one day be a major studio executive.
+											</p>
 										</div>
 										<div class="modal-footer">
 											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
@@ -826,7 +834,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-sm-3">
+						<div class="col-sm-3"><!-- Aaron Johnson -->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
 									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/tmYzJ6yPQNy2NqgMjRIC?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
@@ -867,7 +875,7 @@
 
 					</div>
 					<div class="row">
-						<div class="col-sm-3">
+						<div class="col-sm-3"> <!-- Rolando Vinas -->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
 									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/tZyZwc73SCCIdc570yrl?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
@@ -905,7 +913,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-sm-3">
+						<div class="col-sm-3"><!-- Ellen Jacoby -->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
 									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/B7kDWITYTYehA2dDgzba?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
@@ -950,6 +958,171 @@
 												As founder, and President, of Ellen Jacoby Casting International, a casting office with separate film, television, commercial and Hispanic divisions, Ellen has employed over 250,000 Florida actors, dancers, performers through the years…..
 
 												There are those who have come and gone in this business, and Ellen Jacoby has not only survived, she has flourished.
+											</p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-3"><!-- Gui Popp-->
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/08ziXviSRjqpFCv61N33?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Gui Popp</h3>
+									<div class="separator"></div>
+									<h5>Paradise Key Media</h5>
+									<p></p>
+									<a data-toggle="modal" data-target="#BioModal11" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal 3 -->
+							<div class="modal fade" id="BioModal11" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Gui Popp's Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p>It was in Sao Paulo Brazil where Gui Popp held his first camera. He was fascinated by all the actions of each button and lens rotation as he tried to manage the giant Beta Cam with his tiny 9 year old body. Over the years it was this technical finesse - along with the creative freedom of photography - that drove Gui's passion into a career where every day he is able to witness, capture, create and collaborate within the space around him. It is this natural ability to always see the beauty in life with a wide smile and distinguished laugh that got him to where he is. He attracts those around him to enjoy his craft with the same energy that facilitates the collaboration of his team's composition. Today he is helping lead this team into a future where creative opportunity will flourish with the tools of Virtual and Augment Reality, in preparation for the next venture that his passions lead. "Paradise is a state of mind and I am able to find mine while helping others' find theirs.</p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-3"><!-- Jared Jacobs -->
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/NUA3BDFORC2sLMVTnyju?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Jared Jacobs</h3>
+									<div class="separator"></div>
+									<h5>Paradise Key Medi</h5>
+									<p></p>
+									<a data-toggle="modal" data-target="#BioModal12" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal 3 -->
+							<div class="modal fade" id="BioModal12" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Jared Jacobs' Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p>Jared’s life can be summed up easily by his profession of choice; it’s virtually reality, which means... it’s not quite reality. He has been chasing dreams for so long he has completely lost sight of what most consider “reality." But that’s not to say he hasn’t matured or grown as most people in the other reality might conclude. Nay! He has found entire communities of adventurous, illustrious and progressive dream-seekers who have been creating and sharing their own realities within this common reality we all choose to accept and live in. Jared's enterprising outlook has lead him deep into the Dystopian realities of Megadeth with Universal Studios, carried him through natural paradise with Carnival Cruise Lines and FRS, and landed him at the nexus of nearly every local environmental organization in Miami. "There are many keys to finding one's paradise. I still think it should have a palm tree."</p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-3"> <!-- Hagen Rottke -->
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/zmgG69BySRSQpqZy34Gi?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Hagen Rottke</h3>
+									<div class="separator"></div>
+									<h5>Miami Aerial Inc.</h5>
+									<p></p>
+									<a data-toggle="modal" data-target="#BioModal13" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal 3 -->
+							<div class="modal fade" id="BioModal13" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Hagen Rottke's Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p>
+												Hagen’s childhood was spent between participating in competitive sports, building and flying model aircraft, and electronics. Growing-up in East-Germany there was always
+											great demand for scarce building material and remote-control electronics so Hagen built his own planes and electronics from scratch with great success. He still remembers
+											when he got his first commercially manufactured RC controller but it was no better than the ones he had build by himself!
+											</p>
+											<p>He obtained a master degree in engineering in 1999. He was influenced by the upcoming internet and decided to pursue web design optimization. During his university studies, he followed another childhood dream and earned his private pilot license.
+											Later in life, Hagen crossed over again into the remote-controlled world as he discovered the new technology in electronics that had became available. His goal became to build big planes, as light as possible, and to get the most incredible flight maneuvers, which became possible with brush-less motors and lithium polymer batteries.
+											</p>
+											<p>Hagen found a German website with a flying platform using 4 or more propellers. He was intrigued, but the real impact was made a few months later when he saw an aerial video made with a UAS and that really gave him the bug. He spent long hours finding the set-up and tools needed to shoot photos and video.
+											In 2012 he created a few aerial videos with his UAS which made an impact on the community. As the result, Hagen and Paul Morris founded Miami Aerial, LLC in 2013 in order to provide clients with images from new angles and locations that are impossible to get with a large helicopter.
+											</p>
+											<p>Flying in the “directive visual loop” with a “heads-up” display, that gives both through-the-lens as well as direct visual contact, requires intuitive awareness that comes from many years of flight training, practice, and hands on experience.
+											</p>
+											<p>With years of piloting, design, build, and maintenance of aerial systems, he sets the bar and keeps the Miami Aerial fleet flying with an outstanding degree of precision, safety, and reliability.
+											</p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-3"><!-- Paul Morris -->
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/XpV9dYQISlJs2PBCt05w?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Paul Morris</h3>
+									<div class="separator"></div>
+									<h5>Miami Aerial Inc.</h5>
+									<p></p>
+									<a data-toggle="modal" data-target="#BioModal14" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal 3 -->
+							<div class="modal fade" id="BioModal14" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Paul Morris' Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p>
+											Paul Morris was born in England and grew up on Long Island, NY. His family relocated to south Florida in the early 1970s and he still makes Miami home base. A commercial photographer for more than 30 years, he specializes in aerial still and motion photography. He shoots for a wide client base capturing images for marketing and advertising in all forms of print and broadcast media.
+											</p>
+											<p>
+											Paul partnered with Hagen Rottke in 2012 to bring additional services to his clients with the use of unmanned aerial systems (UAS) for a unique low-level aerial point of view. Now, he is working on expanding the use of these multifunctional aircraft to additional industries and businesses through Miami Aerial.
 											</p>
 										</div>
 										<div class="modal-footer">
@@ -1090,7 +1263,7 @@
 						<div class="subfooter-inner">
 							<div class="row">
 								<div class="col-md-12">
-									<p class="text-center">Copyright © 2017 <a href="https://getindiewise.com">IndieWise</a> All Rights Reserved</p>
+									<p class="text-center">Copyright © 2017 Wise Events, LLC. All Rights Reserved</p>
 								</div>
 							</div>
 						</div>
