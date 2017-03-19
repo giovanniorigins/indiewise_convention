@@ -210,7 +210,11 @@
 									     data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
 									     data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
 									     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">
-										<span class="text-rotator" data-rotator-animation-effect="fadeIn"><strong>Join The Fun</strong></span>
+										<a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank">
+											<span class="text-rotator" data-rotator-animation-effect="fadeIn">
+												<strong>Join The Fun</strong>
+											</span>
+										</a>
 									</div>
 
 									<!-- LAYER NR. 4 -->
@@ -231,7 +235,7 @@
 									     data-transform_idle="o:1;"
 									     data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power4.easeInOut;"data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
 									     data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
-									     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">Registration Starts Sunday, March 19th
+									     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">Registration is NOW OPEN
 										<br><small style="font-size: 60%">Miami, Florida</small>
 									</div>
 
