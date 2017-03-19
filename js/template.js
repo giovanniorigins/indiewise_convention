@@ -1384,7 +1384,6 @@
                         "g-recaptcha-response": $("#g-recaptcha-response").val(),
                         "to":"convention@getindiewise.com"
                     }, function (data, textStatus) {
-                        debugger;
                         if (textStatus === 'success') {
                             $("#MessageSent").removeClass("hidden");
                             $("#MessageNotSent").addClass("hidden");
