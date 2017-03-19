@@ -67,59 +67,11 @@
 									</div>
 									<ul class="list-inline hidden-sm hidden-xs">
 										<!--<li><i class="fa fa-map-marker pr-5 pl-10"></i>One Infinity Loop Av, Tk 123456</li>-->
-										<!--<li><i class="fa fa-phone pr-5 pl-10"></i>+12 123 123 123</li>-->
+										<li><i class="fa fa-phone pr-5 pl-10"></i><a href="tel:3059995910">+1 (305) 999-5910</a></li>
 										<li><i class="fa fa-envelope-o pr-5 pl-10"></i> <a href="mailto:convention@getindiewise.com" style="color: #FFF;">convention@getindiewise.com</a></li>
 									</ul>
 								</div>
 								<!-- header-top-first end -->
-							</div>
-							<div class="col-xs-9 col-sm-6 col-md-3">
-
-								<!-- header-top-second start -->
-								<!-- ================ -->
-								<div id="header-top-second"  class="clearfix">
-
-									<!-- header top dropdowns start -->
-									<!-- ================ -->
-									<!--<div class="header-top-dropdown text-right">
-										<div class="btn-group">
-											<a href="page-signup.html" class="btn btn-default btn-sm"><i class="fa fa-user pr-10"></i> Sign Up</a>
-										</div>
-										<div class="btn-group dropdown">
-											<button type="button" class="btn dropdown-toggle btn-default btn-sm" data-toggle="dropdown"><i class="fa fa-lock pr-10"></i> Login</button>
-											<ul class="dropdown-menu dropdown-menu-right dropdown-animation">
-												<li>
-													<form class="login-form margin-clear">
-														<div class="form-group has-feedback">
-															<label class="control-label">Username</label>
-															<input type="text" class="form-control" placeholder="">
-															<i class="fa fa-user form-control-feedback"></i>
-														</div>
-														<div class="form-group has-feedback">
-															<label class="control-label">Password</label>
-															<input type="password" class="form-control" placeholder="">
-															<i class="fa fa-lock form-control-feedback"></i>
-														</div>
-														<button type="submit" class="btn btn-gray btn-sm">Log In</button>
-														<span class="pl-5 pr-5">or</span>
-														<button type="submit" class="btn btn-default btn-sm">Sing Up</button>
-														<ul>
-															<li><a href="#">Forgot your password?</a></li>
-														</ul>
-														<span class="text-center">Login with</span>
-														<ul class="social-links circle small colored clearfix">
-															<li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
-															<li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
-															<li class="googleplus"><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
-														</ul>
-													</form>
-												</li>
-											</ul>
-										</div>
-									</div>-->
-									<!--  header top dropdowns end -->
-								</div>
-								<!-- header-top-second end -->
 							</div>
 						</div>
 					</div>
@@ -143,55 +95,43 @@
 
 			<!-- Offcanvas side start -->
 			<div class="offcanvas-container hidden-md hidden-lg">
-				<nav id="offcanvas" class="animated navmenu navmenu-default navmenu-fixed-left offcanvas offcanvas-left" role="navigation">
+				<nav id="offcanvas" class="animated navmenu navmenu-default navmenu-fixed-right offcanvas offcanvas-right" role="navigation">
 					<!-- logo -->
 					<div class="logo">
-						<a href="index.html"><img id="logo" src="images/logo_light_blue.png" alt="The Project"></a>
+						<a href="/"><img id="logo_img" src="https://getindiewise.com/assets/img/Logo_alt2_web_87x45.png" alt="IndieWise" style="max-height: 55px;"></a>
 					</div>
 
-					<!-- name-and-slogan -->
-					<div class="site-slogan">
-						Multipurpose HTML5 Template
-					</div>
 					<div class="separator"></div>
 					<ul class="social-links circle small clearfix margin-clear text-center animated-effect-1">
-						<li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
-						<li class="skype"><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
-						<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
-						<li class="googleplus"><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
-						<li class="youtube"><a target="_blank" href="http://www.youtube.com"><i class="fa fa-youtube-play"></i></a></li>
-						<li class="flickr"><a target="_blank" href="http://www.flickr.com"><i class="fa fa-flickr"></i></a></li>
-						<li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
+						<li class="twitter"><a target="_blank" href="https://twitter.com/getindiewise"><i class="fa fa-twitter"></i></a></li>
+						<li class="googleplus"><a target="_blank" href="https://www.instagram.com/getindiewise/"><i class="fa fa-instagram"></i></a></li>
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/getindiewise"><i class="fa fa-facebook"></i></a></li>
 					</ul>
 					<div class="separator mt-10"></div>
 					<ul class="nav navbar-nav text-center">
-						<li class="active"><a href="index.html">Home</a></li>
-						<li><a href="page-about.html">About</a></li>
-						<li><a href="page-services.html">Services</a></li>
-						<li><a href="portfolio-grid-2-3-col.html">Portfolio</a></li>
-						<li><a href="shop-listing-3col.html">Shop</a></li>
-						<li><a href="page-contact.html">Contact</a></li>
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Menu Item With Submenu</a>
-							<ul class="dropdown-menu">
-								<li><a href="#">Second Level Item 1</a></li>
-								<li><a href="#">Second Level Item 2</a></li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Second Level Item With Submenu</a>
-									<ul class="dropdown-menu">
-										<li><a href="#">Third Level Item 1</a></li>
-										<li><a href="#">Third Level Item 2</a></li>
-										<li><a href="#">Third Level Item 3</a></li>
-									</ul>
-								</li>
-							</ul>
+						<li class="<?= $active === 'index' ? 'active' : '' ?>">
+							<a href="/">Home</a>
+						</li>
+						<li class="<?= $active === 'register' ? 'active' : '' ?>">
+							<a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank">Register</a>
+						</li>
+						<li>
+							<a href="https://www.filestackapi.com/api/file/B6WdZyL0QmeFPmSc3l7E?cache=true" target="_blank">Schedule</a>
+						</li>
+						<li class="<?= $active === 'soon' ? 'active' : '' ?>">
+							<a href="/soon.php" target="_blank">Book Hotel</a>
+						</li>
+						<li onclick="closeCanvas()">
+							<a href="#">Our Story</a>
+						</li>
+						<li class="<?= $active === 'contact' ? 'active' : '' ?>">
+							<a href="/contact.php">Contact Us</a>
 						</li>
 					</ul>
 				</nav>
-				<button type="button" class="offcanvas-toggle-left navbar-toggle" data-toggle="offcanvas" data-target="#offcanvas"></button>
+				<button type="button" class="offcanvas-toggle-right navbar-toggle" data-toggle="offcanvas" data-target="#offcanvas"></button>
 			</div>
 			<!-- offcanvas side end -->
-
 
 			<!-- banner start -->
 			<!-- Slider -->
@@ -342,7 +282,7 @@
 							<a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Register</a>
 						</div>
 						<div class="col-md-3 text-center">
-							<a href="#" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Become a Sponsor</a>
+							<a href="https://www.filestackapi.com/api/file/0h4UOj96TBeTginUskZT?cache=true" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Become a Sponsor</a>
 						</div>
 						<div class="col-md-2 text-center">
 							<a href="https://www.facebook.com/events/1580028138960728" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Learn More</a>
@@ -1133,6 +1073,8 @@
 		<script type="text/javascript" src="plugins/modernizr.js"></script>
 		<script type="text/javascript" src="plugins/rs-plugin-5/js/jquery.themepunch.tools.min.js?rev=5.0"></script>
 		<script type="text/javascript" src="plugins/rs-plugin-5/js/jquery.themepunch.revolution.min.js?rev=5.0"></script>
+		<!-- Jasny Bootstrap  -->
+		<script type="text/javascript" src="plugins/jasny-bootstrap/js/jasny-bootstrap.js"></script>
 		<!-- Isotope javascript -->
 		<script type="text/javascript" src="plugins/isotope/isotope.pkgd.min.js"></script>
 		<!-- Magnific Popup javascript -->
@@ -1158,6 +1100,22 @@
 		<script type="text/javascript" src="js/template.js"></script>
 		<!-- Custom Scripts -->
 		<script type="text/javascript" src="js/custom.js"></script>
+
+		<script>
+			'use strict';
+            window.ourStoryClick = false;
+            $('#offcanvas').on('hidden.bs.offcanvas', function (e) {
+                if (window.ourStoryClick) {
+                    $('#ourStory').modal('show');
+                    window.ourStoryClick = false;
+                }
+            });
+
+            function closeCanvas() {
+			    window.ourStoryClick = true;
+                $('#offcanvas').offcanvas('hide');
+            }
+		</script>
 
 	</body>
 </html>

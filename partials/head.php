@@ -53,6 +53,7 @@
     <link href="plugins/owlcarousel2/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="plugins/owlcarousel2/assets/owl.theme.default.min.css" rel="stylesheet">
     <link href="plugins/hover/hover-min.css" rel="stylesheet">
+	<link href="plugins/jasny-bootstrap/css/jasny-bootstrap.css" rel="stylesheet">
 
     <!-- The Project's core CSS file -->
     <!-- Use css/rtl_style.css for RTL version -->
@@ -73,12 +74,12 @@
     <script src="https://static.filestackapi.com/v3/filestack-0.2.0.js"></script>
     <script>
         filepicker.setKey('APbjTx44SlSuCI6P58jwvz');
-        /*var client = filestack.init('APbjTx44SlSuCI6P58jwvz');
+        var client = filestack.init('APbjTx44SlSuCI6P58jwvz');
          client.pick({
-         accept: 'image/!*',
+//         accept: 'image/*',
          maxFiles: 10,
          }).then(function(result) {
          console.log(JSON.stringify(result.filesUploaded))
-         })*/
+         })
     </script>
 </head>

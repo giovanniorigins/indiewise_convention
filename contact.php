@@ -68,7 +68,7 @@
 									</div>
 									<ul class="list-inline hidden-sm hidden-xs">
 										<!--<li><i class="fa fa-map-marker pr-5 pl-10"></i>One Infinity Loop Av, Tk 123456</li>-->
-										<!--<li><i class="fa fa-phone pr-5 pl-10"></i>+12 123 123 123</li>-->
+										<li><i class="fa fa-phone pr-5 pl-10"></i><a href="tel:3059995910">+1 (305) 999-5910</a></li>
 										<li><i class="fa fa-envelope-o pr-5 pl-10"></i> <a href="mailto:convention@getindiewise.com" style="color: #FFF;">convention@getindiewise.com</a></li>
 									</ul>
 								</div>
@@ -170,7 +170,7 @@
 							<h1 class="page-title">Contact Us</h1>
 							<div class="separator-2"></div>
 							<!-- page-title end -->
-							<p>It would be great to hear from you! Just drop us a line and ask for anything with which you think we could be helpful. We are looking forward to hearing from you!</p>
+							<p>We're always here to help. Looking forward to hearing from you!</p>
 							<div class="alert alert-success hidden" id="MessageSent">
 								We have received your message, we will contact you very soon.
 							</div>
@@ -210,27 +210,31 @@
 						<!-- sidebar start -->
 						<!-- ================ -->
 						<aside class="col-md-4 col-lg-3 col-lg-offset-1">
-							<!--<div class="sidebar">
+							<div class="sidebar">
 								<div class="block clearfix">
 									<h3 class="title">Find Us</h3>
 									<div class="separator-2"></div>
 									<ul class="list">
-										<li><i class="fa fa-home pr-10"></i>795 Folsom Ave, Suite 600<br><span class="pl-20">San Francisco, CA 94107</span></li>
-										<li><i class="fa fa-phone pr-10"></i><abbr title="Phone">P:</abbr> (123) 456-7890</li>
-										<li><i class="fa fa-mobile pr-10 pl-5"></i><abbr title="Phone">M:</abbr> (123) 456-7890</li>
-										<li><i class="fa fa-envelope pr-10"></i><a href="mailto:info@idea.com">info@theproject.com</a></li>
-									</ul>
-									<a class="btn btn-gray collapsed map-show btn-animated" data-toggle="collapse" href="#collapseMap" aria-expanded="false" aria-controls="collapseMap">Show Map <i class="fa fa-plus"></i></a>
+<!--										<li><i class="fa fa-home pr-10"></i>795 Folsom Ave, Suite 600<br><span class="pl-20">San Francisco, CA 94107</span></li>-->
+<!--										<li><i class="fa fa-phone pr-10"></i><abbr title="Phone">P:</abbr> (123) 456-7890</li>-->
+										<li><i class="fa fa-phone pr-5 pl-10"></i><a href="tel:3059995910">+1 (305) 999-5910</a></li>
+										<li><i class="fa fa-envelope-o pr-5 pl-10"></i> <a href="mailto:convention@getindiewise.com">convention@getindiewise.com</a></li>									</ul>
+<!--									<a class="btn btn-gray collapsed map-show btn-animated" data-toggle="collapse" href="#collapseMap" aria-expanded="false" aria-controls="collapseMap">Show Map <i class="fa fa-plus"></i></a>-->
 								</div>
-							</div>-->
+							</div>
 							<div class="sidebar">
 								<div class="block clearfix">
-									<h2 class="title">Follow Us</h2>
+									<h3 class="title">Follow Us</h3>
 									<div class="separator-2"></div>
 									<ul class="social-links circle small margin-clear clearfix animated-effect-1">
 										<li class="twitter"><a target="_blank" href="https://twitter.com/getindiewise"><i class="fa fa-twitter"></i></a></li>
 										<li class="googleplus"><a target="_blank" href="https://www.instagram.com/getindiewise/"><i class="fa fa-instagram"></i></a></li>
 										<li class="facebook"><a target="_blank" href="https://www.facebook.com/getindiewise"><i class="fa fa-facebook"></i></a></li>
+									</ul>
+									<br>
+									<ul class="list-unstyled">
+
+
 									</ul>
 								</div>
 							</div>
@@ -307,35 +311,5 @@
 		<script type="text/javascript" src="js/template.js"></script>
 		<!-- Custom Scripts -->
 		<script type="text/javascript" src="js/custom.js"></script>
-
-		<script type="text/javascript">
-            /*$(document).ready(function () {
-                // Form Validation and Submit
-                //-----------------------------------------------
-                var thisForm = $("#contact-form-with-recaptcha");
-                thisForm.validate({
-                    /!*rules: {
-//                        name: 'required'
-                    },*!/
-                    submitHandler: function(form) {
-                        $.post('https://getindiewise.com/api/contact', thisForm.serialize(), function (data) {
-                            $.notify({
-                                // options
-                                message: 'Great! Message Sent'
-                            },{
-                                // settings
-                                type: 'success',
-                                delay: 8000,
-                                offset : {
-                                    y: 100,
-                                    x: 20
-                                }
-                            });
-                        });
-                    }
-                });
-            })*/
-		</script>
-
 	</body>
 </html>
