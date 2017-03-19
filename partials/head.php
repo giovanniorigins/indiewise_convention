@@ -68,7 +68,7 @@
 
     <!-- Custom css -->
     <link href="css/custom.css" rel="stylesheet">
-    <script src='https://www.google.com/recaptcha/api.js'></script>
+<!--    <script src='https://www.google.com/recaptcha/api.js'></script>-->
     <script src="https://api.filestackapi.com/filestack.js"></script>
     <script src="https://static.filestackapi.com/v3/filestack-0.2.0.js"></script>
     <script>
