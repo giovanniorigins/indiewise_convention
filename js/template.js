@@ -1390,7 +1390,7 @@
 						dataType: "json",
 						success: function (data) {
 							debugger;
-							if (data.sent == "yes") {
+							if (data) {
 								$("#MessageSent").removeClass("hidden");
 								$("#MessageNotSent").addClass("hidden");
 								$(".submit-button").removeClass("btn-default").addClass("btn-success").prop('value', 'Message Sent');
