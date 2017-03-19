@@ -61,7 +61,7 @@
                                             <a href="https://www.filestackapi.com/api/file/B6WdZyL0QmeFPmSc3l7E?cache=true" target="_blank">Schedule</a>
                                         </li>
                                         <li class="<?= $active === 'soon' ? 'active' : '' ?>">
-                                            <a href="/soon.php">Book Hotel</a>
+                                            <a href="/soon.php" target="_blank">Book Hotel</a>
                                         </li>
                                         <li class="<?= $active === 'story' ? 'active' : '' ?>">
                                             <a href="#">Our Story</a>

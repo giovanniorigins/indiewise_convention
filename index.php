@@ -6,89 +6,7 @@
 <html dir="ltr" lang="en">
 	<!--<![endif]-->
 
-	<head>
-		<meta charset="utf-8">
-		<title>IndieWise Convention</title>
-		<!--<meta name="description" content="The Project a Bootstrap-based, Responsive HTML5 Template">-->
-		<meta name="author" content="Jerez Bain | IndieWise">
-
-		<!-- Mobile Meta -->
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-		<!-- Favicon -->
-		<link rel="apple-touch-icon" sizes="57x57" href="./apple-touch-icon-57x57.png">
-		<link rel="apple-touch-icon" sizes="60x60" href="./apple-touch-icon-60x60.png">
-		<link rel="apple-touch-icon" sizes="72x72" href="./apple-touch-icon-72x72.png">
-		<link rel="apple-touch-icon" sizes="76x76" href="./apple-touch-icon-76x76.png">
-		<link rel="apple-touch-icon" sizes="114x114" href="./apple-touch-icon-114x114.png">
-		<link rel="apple-touch-icon" sizes="120x120" href="./apple-touch-icon-120x120.png">
-		<link rel="apple-touch-icon" sizes="144x144" href="./apple-touch-icon-144x144.png">
-		<link rel="apple-touch-icon" sizes="152x152" href="./apple-touch-icon-152x152.png">
-		<link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon-180x180.png">
-		<link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32">
-		<link rel="icon" type="image/png" href="./favicon-194x194.png" sizes="194x194">
-		<link rel="icon" type="image/png" href="./favicon-96x96.png" sizes="96x96">
-		<link rel="icon" type="image/png" href="./android-chrome-192x192.png" sizes="192x192">
-		<link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16">
-		<link rel="manifest" href="./manifest.json">
-		<link rel="mask-icon" href="./safari-pinned-tab.svg" color="#5bbad5">
-		<meta name="msapplication-TileColor" content="#2b5797">
-		<meta name="msapplication-TileImage" content="./mstile-144x144.png">
-		<meta name="theme-color" content="#ffffff">
-		<link rel="shortcut icon" href="./favicon.ico">
-
-		<!-- Web Fonts -->
-		<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=Raleway:700,400,300' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
-
-		<!-- Bootstrap core CSS -->
-		<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
-
-		<!-- Font Awesome CSS -->
-		<link href="fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
-
-		<!-- Fontello CSS -->
-		<link href="fonts/fontello/css/fontello.css" rel="stylesheet">
-
-		<!-- Plugins -->
-		<link href="plugins/magnific-popup/magnific-popup.css" rel="stylesheet">
-		<link href="plugins/rs-plugin-5/css/settings.css" rel="stylesheet">
-		<link href="plugins/rs-plugin-5/css/layers.css" rel="stylesheet">
-		<link href="plugins/rs-plugin-5/css/navigation.css" rel="stylesheet">
-		<link href="css/animations.css" rel="stylesheet">
-		<link href="plugins/owlcarousel2/assets/owl.carousel.min.css" rel="stylesheet">
-		<link href="plugins/owlcarousel2/assets/owl.theme.default.min.css" rel="stylesheet">
-		<link href="plugins/hover/hover-min.css" rel="stylesheet">		
-		
-		<!-- The Project's core CSS file -->
-		<!-- Use css/rtl_style.css for RTL version -->
-		<link href="css/style.css" rel="stylesheet" >
-		<!-- The Project's Typography CSS file, includes used fonts -->
-		<!-- Used font for body: Roboto -->
-		<!-- Used font for headings: Raleway -->
-		<!-- Use css/rtl_typography-default.css for RTL version -->
-		<link href="css/typography-default.css" rel="stylesheet" >
-		<!-- Color Scheme (In order to change the color scheme, replace the blue.css with the color scheme that you prefer)-->
-		<link href="css/skins/indiewise.css" rel="stylesheet">
-		
-
-		<!-- Custom css --> 
-		<link href="css/custom.css" rel="stylesheet">
-		<script src="https://api.filestackapi.com/filestack.js"></script>
-		<script src="https://static.filestackapi.com/v3/filestack-0.2.0.js"></script>
-		<script>
-            filepicker.setKey('APbjTx44SlSuCI6P58jwvz');
-            /*var client = filestack.init('APbjTx44SlSuCI6P58jwvz');
-            client.pick({
-                accept: 'image/!*',
-                maxFiles: 10,
-            }).then(function(result) {
-                console.log(JSON.stringify(result.filesUploaded))
-            })*/
-		</script>
-	</head>
+	<?php require ('partials/head.php'); ?>
 
 	<!-- body classes:  -->
 	<!-- "boxed": boxed layout mode e.g. <body class="boxed"> -->
@@ -107,9 +25,9 @@
 		<div class="page-wrapper">
 		
 			<!-- header-container start -->
-			<div class="header-container">
-				
-				
+			<div class="header-container hidden-xs hidden-sm">
+
+
 				<!-- header-top start -->
 				<!-- classes:  -->
 				<!-- "dark": dark version of header top e.g. class="header-top dark" -->
@@ -207,7 +125,7 @@
 					</div>
 				</div>
 				<!-- header-top end -->
-				
+
 				<!-- header start -->
 				<!-- classes:  -->
 				<!-- "fixed": enables fixed navigation mode (sticky menu) e.g. class="header fixed clearfix" -->
@@ -222,6 +140,58 @@
 				<!-- header end -->
 			</div>
 			<!-- header-container end -->
+
+			<!-- Offcanvas side start -->
+			<div class="offcanvas-container hidden-md hidden-lg">
+				<nav id="offcanvas" class="animated navmenu navmenu-default navmenu-fixed-left offcanvas offcanvas-left" role="navigation">
+					<!-- logo -->
+					<div class="logo">
+						<a href="index.html"><img id="logo" src="images/logo_light_blue.png" alt="The Project"></a>
+					</div>
+
+					<!-- name-and-slogan -->
+					<div class="site-slogan">
+						Multipurpose HTML5 Template
+					</div>
+					<div class="separator"></div>
+					<ul class="social-links circle small clearfix margin-clear text-center animated-effect-1">
+						<li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
+						<li class="skype"><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
+						<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
+						<li class="googleplus"><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
+						<li class="youtube"><a target="_blank" href="http://www.youtube.com"><i class="fa fa-youtube-play"></i></a></li>
+						<li class="flickr"><a target="_blank" href="http://www.flickr.com"><i class="fa fa-flickr"></i></a></li>
+						<li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
+					</ul>
+					<div class="separator mt-10"></div>
+					<ul class="nav navbar-nav text-center">
+						<li class="active"><a href="index.html">Home</a></li>
+						<li><a href="page-about.html">About</a></li>
+						<li><a href="page-services.html">Services</a></li>
+						<li><a href="portfolio-grid-2-3-col.html">Portfolio</a></li>
+						<li><a href="shop-listing-3col.html">Shop</a></li>
+						<li><a href="page-contact.html">Contact</a></li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Menu Item With Submenu</a>
+							<ul class="dropdown-menu">
+								<li><a href="#">Second Level Item 1</a></li>
+								<li><a href="#">Second Level Item 2</a></li>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Second Level Item With Submenu</a>
+									<ul class="dropdown-menu">
+										<li><a href="#">Third Level Item 1</a></li>
+										<li><a href="#">Third Level Item 2</a></li>
+										<li><a href="#">Third Level Item 3</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</nav>
+				<button type="button" class="offcanvas-toggle-left navbar-toggle" data-toggle="offcanvas" data-target="#offcanvas"></button>
+			</div>
+			<!-- offcanvas side end -->
+
 
 			<!-- banner start -->
 			<!-- Slider -->
