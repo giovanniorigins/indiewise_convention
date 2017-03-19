@@ -74,12 +74,12 @@
     <script src="https://static.filestackapi.com/v3/filestack-0.2.0.js"></script>
     <script>
         filepicker.setKey('APbjTx44SlSuCI6P58jwvz');
-        var client = filestack.init('APbjTx44SlSuCI6P58jwvz');
+        /*var client = filestack.init('APbjTx44SlSuCI6P58jwvz');
          client.pick({
-//         accept: 'image/*',
+         accept: 'image/!*',
          maxFiles: 10,
          }).then(function(result) {
          console.log(JSON.stringify(result.filesUploaded))
-         })
+         })*/
     </script>
 </head>
