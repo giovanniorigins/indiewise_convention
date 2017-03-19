@@ -1378,16 +1378,18 @@
 					$('.submit-button').button("loading");
 					$.ajax({
 						type: "POST",
-						url: "php/email-sender-recaptcha.php",
+						url: 'https://getindiewise.com/api/contact',
 						data: {
 							"name": $("#contact-form-with-recaptcha #name").val(),
 							"email": $("#contact-form-with-recaptcha #email").val(),
 							"subject": $("#contact-form-with-recaptcha #subject").val(),
 							"message": $("#contact-form-with-recaptcha #message").val(),
-							"g-recaptcha-response": $("#g-recaptcha-response").val()
+							"g-recaptcha-response": $("#g-recaptcha-response").val(),
+							"to":"convention@getindiewise.com"
 						},
 						dataType: "json",
 						success: function (data) {
+							debugger;
 							if (data.sent == "yes") {
 								$("#MessageSent").removeClass("hidden");
 								$("#MessageNotSent").addClass("hidden");

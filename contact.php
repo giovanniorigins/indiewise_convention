@@ -199,7 +199,7 @@
 										<textarea class="form-control" rows="6" id="message" name="message" placeholder=""></textarea>
 										<i class="fa fa-pencil form-control-feedback"></i>
 									</div>
-<!--									<div class="g-recaptcha" data-sitekey="6Lf7dRkUAAAAAJG9PNNLbqr5LJAbsw2HGD14ZIyS"></div>-->
+									<div class="g-recaptcha" data-sitekey="6Lf7dRkUAAAAAJG9PNNLbqr5LJAbsw2HGD14ZIyS"></div>
 									<input type="email" name="to" id="to" hidden value="convention@getindiewise.com">
 									<input type="submit" value="Submit" class="submit-button btn btn-default">
 								</form>
@@ -309,14 +309,14 @@
 		<script type="text/javascript" src="js/custom.js"></script>
 
 		<script type="text/javascript">
-            $(document).ready(function () {
+            /*$(document).ready(function () {
                 // Form Validation and Submit
                 //-----------------------------------------------
                 var thisForm = $("#contact-form-with-recaptcha");
                 thisForm.validate({
-                    /*rules: {
+                    /!*rules: {
 //                        name: 'required'
-                    },*/
+                    },*!/
                     submitHandler: function(form) {
                         $.post('https://getindiewise.com/api/contact', thisForm.serialize(), function (data) {
                             $.notify({
@@ -334,7 +334,7 @@
                         });
                     }
                 });
-            })
+            })*/
 		</script>
 
 	</body>
