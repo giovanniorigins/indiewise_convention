@@ -1,5 +1,6 @@
 {
     "require": {
-        "drewm/mailchimp-api": "dev-api-v3"
+        "drewm/mailchimp-api": "dev-api-v3",
+        "slim/slim": "^3.0"
     }
 }
