@@ -1376,33 +1376,27 @@
 			$("#contact-form-with-recaptcha").validate({
 				submitHandler: function(form) {
 					$('.submit-button').button("loading");
-					$.ajax({
-						type: "POST",
-						url: 'https://getindiewise.com/api/contact',
-						data: {
-							"name": $("#contact-form-with-recaptcha #name").val(),
-							"email": $("#contact-form-with-recaptcha #email").val(),
-							"subject": $("#contact-form-with-recaptcha #subject").val(),
-							"message": $("#contact-form-with-recaptcha #message").val(),
-							"g-recaptcha-response": $("#g-recaptcha-response").val(),
-							"to":"convention@getindiewise.com"
-						},
-						dataType: "json",
-						done: function (data) {
-							debugger;
-							if (data) {
-								$("#MessageSent").removeClass("hidden");
-								$("#MessageNotSent").addClass("hidden");
-								$(".submit-button").removeClass("btn-default").addClass("btn-success").prop('value', 'Message Sent');
-								$("#contact-form-with-recaptcha .form-control").each(function() {
-									$(this).prop('value', '').parent().removeClass("has-success").removeClass("has-error");
-								});
-							} else {
-								$("#MessageNotSent").removeClass("hidden");
-								$("#MessageSent").addClass("hidden");
-							}
-						}
-					});
+					$.post('https://getindiewise.com/api/contact', {
+                        "name": $("#contact-form-with-recaptcha #name").val(),
+                        "email": $("#contact-form-with-recaptcha #email").val(),
+                        "subject": $("#contact-form-with-recaptcha #subject").val(),
+                        "message": $("#contact-form-with-recaptcha #message").val(),
+                        "g-recaptcha-response": $("#g-recaptcha-response").val(),
+                        "to":"convention@getindiewise.com"
+                    }, function (data, textStatus) {
+                        debugger;
+                        if (data) {
+                            $("#MessageSent").removeClass("hidden");
+                            $("#MessageNotSent").addClass("hidden");
+                            $(".submit-button").removeClass("btn-default").addClass("btn-success").prop('value', 'Message Sent');
+                            $("#contact-form-with-recaptcha .form-control").each(function() {
+                                $(this).prop('value', '').parent().removeClass("has-success").removeClass("has-error");
+                            });
+                        } else {
+                            $("#MessageNotSent").removeClass("hidden");
+                            $("#MessageSent").addClass("hidden");
+                        }
+                    });
 				},
 				errorPlacement: function(error, element) {
 					error.insertBefore( element );
