@@ -278,7 +278,7 @@
 							<h2 class="text-center">Join Us for the <br> 1st <strong>Grand</strong> IndieWise <strong>Convention</strong></h2>
 							<div class="separator"></div>
 							<p class="large text-center">Join us August 24-27 in Sunny South Florida. <br>
-								Registration will be open soon - be sure to catch the early bird price!</p>
+								Registration is NOW OPEN - be sure to catch the early bird price!</p>
 						</div>
 					</div>
 					<div class="row">
