@@ -1385,7 +1385,7 @@
                         "to":"convention@getindiewise.com"
                     }, function (data, textStatus) {
                         debugger;
-                        if (data) {
+                        if (textStatus === 'success') {
                             $("#MessageSent").removeClass("hidden");
                             $("#MessageNotSent").addClass("hidden");
                             $(".submit-button").removeClass("btn-default").addClass("btn-success").prop('value', 'Message Sent');
