@@ -369,7 +369,7 @@
 					</div>
 					<div class="row">
 						<div class="col-md-2 text-center">
-							<a href="#" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Register</a>
+							<a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Register</a>
 						</div>
 						<div class="col-md-3 text-center">
 							<a href="#" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Become a Sponsor</a>

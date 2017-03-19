@@ -55,7 +55,7 @@
                                             <a href="/">Home</a>
                                         </li>
                                         <li class="<?= $active === 'register' ? 'active' : '' ?>">
-                                            <a href="#">Register</a>
+                                            <a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank">Register</a>
                                         </li>
                                         <li>
                                             <a href="https://www.filestackapi.com/api/file/B6WdZyL0QmeFPmSc3l7E?cache=true" target="_blank">Schedule</a>
