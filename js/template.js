@@ -1388,7 +1388,7 @@
 							"to":"convention@getindiewise.com"
 						},
 						dataType: "json",
-						success: function (data) {
+						done: function (data) {
 							debugger;
 							if (data) {
 								$("#MessageSent").removeClass("hidden");
