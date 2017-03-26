@@ -152,7 +152,7 @@
 								<li class="text-center" data-transition="fade" data-slotamount="1" data-masterspeed="500" data-saveperformance="off">
 
 									<!-- main image -->
-									<img src="./images/HOTEL/Marco%20Polo%20Beach%20Resort%203.jpg" alt="slidebg1" data-bgposition="center bottom" data-bgpositionend="center bottom" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+									<img src="https://process.filestackapi.com/resize=fit:max,width:1800,height:1200/IUDdor1TS6GD4vnILB2o?cache=true" alt="slidebg1" data-bgposition="center bottom" data-bgpositionend="center bottom" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 
 									<!-- Transparent Background -->
 									<div class="tp-caption dark-translucent-bg"
@@ -988,13 +988,31 @@
 					<div class="owl-carousel carousel">
 						<div class="image-box shadow text-center">
 							<div class="overlay-container overlay-visible">
+								<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/LQNeoPAkQe2ZHSy5yf5p?cache=true" data-fp-pixel-round="10" class="img-responsive">
+								<!--<a href="portfolio-item.html" class="overlay-link"><i class="fa fa-link"></i></a>-->
+							</div>
+						</div>
+						<div class="image-box shadow text-center">
+							<div class="overlay-container overlay-visible">
+								<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/7kfOZsglSYiF9Q6xV6wO?cache=true" data-fp-pixel-round="10" class="img-responsive">
+								<!--<a href="portfolio-item.html" class="overlay-link"><i class="fa fa-link"></i></a>-->
+							</div>
+						</div>
+						<div class="image-box shadow text-center">
+							<div class="overlay-container overlay-visible">
+								<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/5TapWIpHSTKj1b48SQTD?cache=true" data-fp-pixel-round="10" class="img-responsive">
+								<!--<a href="portfolio-item.html" class="overlay-link"><i class="fa fa-link"></i></a>-->
+							</div>
+						</div>
+						<div class="image-box shadow text-center">
+							<div class="overlay-container overlay-visible">
 								<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/VCViHPxQreVAx3HQsT41?cache=true" data-fp-pixel-round="10" class="img-responsive">
 								<!--<a href="portfolio-item.html" class="overlay-link"><i class="fa fa-link"></i></a>-->
 							</div>
 						</div>
 						<div class="image-box shadow text-center">
 							<div class="overlay-container overlay-visible">
-								<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/mL3gqKWUSxCHOg69kPao?cache=true" data-fp-pixel-round="10" class="img-responsive">
+								<img data-fp-src="https://process.filestackapi.com/resize=fit:clip,align:faces,width:400,height:300/mL3gqKWUSxCHOg69kPao?cache=true" data-fp-pixel-round="10" class="img-responsive">
 								<!--<a href="portfolio-item.html" class="overlay-link"><i class="fa fa-link"></i></a>-->
 
 							</div>
