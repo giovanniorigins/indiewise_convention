@@ -152,7 +152,7 @@
 								<li class="text-center" data-transition="fade" data-slotamount="1" data-masterspeed="500" data-saveperformance="off">
 
 									<!-- main image -->
-									<img src="https://process.filestackapi.com/resize=fit:max,width:1800,height:1200/IUDdor1TS6GD4vnILB2o?cache=true" alt="slidebg1" data-bgposition="center bottom" data-bgpositionend="center bottom" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+									<img src="https://process.filestackapi.com/resize=fit:max,width:1800,height:1200/IUDdor1TS6GD4vnILB2o?cache=true" alt="slidebg1" data-bgposition="center bottom" data-bgpositionend="center top" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 
 									<!-- Transparent Background -->
 									<div class="tp-caption dark-translucent-bg"
