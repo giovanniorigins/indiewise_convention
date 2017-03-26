@@ -76,7 +76,6 @@
         filepicker.setKey('APbjTx44SlSuCI6P58jwvz');
         /*var client = filestack.init('APbjTx44SlSuCI6P58jwvz');
          client.pick({
-         accept: 'image/!*',
          maxFiles: 10,
          }).then(function(result) {
          console.log(JSON.stringify(result.filesUploaded))

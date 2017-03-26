@@ -116,7 +116,7 @@
 							<a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank">Register</a>
 						</li>
 						<li>
-							<a href="https://www.filestackapi.com/api/file/B6WdZyL0QmeFPmSc3l7E?cache=true" target="_blank">Schedule</a>
+							<a data-toggle="modal" data-target="#scheduleComing">Schedule</a>
 						</li>
 						<li class="<?= $active === 'soon' ? 'active' : '' ?>">
 							<a href="/soon.php" target="_blank">Book Hotel</a>
@@ -286,7 +286,7 @@
 							<a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Register</a>
 						</div>
 						<div class="col-md-3 text-center">
-							<a href="https://www.filestackapi.com/api/file/0h4UOj96TBeTginUskZT?cache=true" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Become a Sponsor</a>
+							<a href="https://www.filestackapi.com/api/file/Bwxx5XjRTYSdDOkKlb9V?cache=true" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Become a Sponsor</a>
 						</div>
 						<div class="col-md-2 text-center">
 							<a href="https://www.facebook.com/events/1580028138960728" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Learn More</a>
@@ -1110,7 +1110,7 @@
             window.ourStoryClick = false;
             $('#offcanvas').on('hidden.bs.offcanvas', function (e) {
                 if (window.ourStoryClick) {
-                    $('#ourStory').modal('show');
+                    $('#ourStory,#scheduleComing').modal('show');
                     window.ourStoryClick = false;
                 }
             });

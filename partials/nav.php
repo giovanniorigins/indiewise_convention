@@ -58,7 +58,7 @@
                                             <a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank">Register</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.filestackapi.com/api/file/B6WdZyL0QmeFPmSc3l7E?cache=true" target="_blank">Schedule</a>
+                                            <a data-toggle="modal" data-target="#scheduleComing">Schedule</a>
                                         </li>
                                         <li class="<?= $active === 'soon' ? 'active' : '' ?>">
                                             <a href="/soon.php" target="_blank">Book Hotel</a>
@@ -106,6 +106,25 @@
 				</p><p>
 					We certainly hope you’re as excited as we are!
 				</p>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+				<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Schedule Modal -->
+<div class="modal fade" id="scheduleComing" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+				<h4 class="modal-title" id="myModalLabel">Schedule</h4>
+			</div>
+			<div class="modal-body">
+				<p>New Schedule Coming Wednesday March 29 at 12 Noon EST</p>
 			</div>
 			<div class="modal-footer">
 				<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
