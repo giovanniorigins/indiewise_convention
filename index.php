@@ -152,7 +152,7 @@
 								<li class="text-center" data-transition="fade" data-slotamount="1" data-masterspeed="500" data-saveperformance="off">
 
 									<!-- main image -->
-									<img src="./images/HOTEL/Marco%20Polo%20Beach%20Resort%204.jpg" alt="slidebg1" data-bgposition="center top" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+									<img src="./images/HOTEL/Marco%20Polo%20Beach%20Resort%203.jpg" alt="slidebg1" data-bgposition="center bottom" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 
 									<!-- Transparent Background -->
 									<div class="tp-caption dark-translucent-bg"
