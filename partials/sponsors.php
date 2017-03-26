@@ -31,10 +31,10 @@
                     <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="300">
                         <a href="https://getindiewise.com" target="_blank"><img src="https://getindiewise.com/assets/img/Logo_alt2.png" class="img-responsive" alt="IndieWise"></a>
                     </div>
-                    <!--<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="400">
-                        <a href="#"><img src="images/client-4.png" alt=""></a>
+                    <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="400">
+                        <a href="#"><img src="https://process.filestackapi.com/resize=fit:crop,align:center,width:400,height:300/wPKIvGOSYOXoBLBB8HxQ?cache=true" alt=""></a>
                     </div>
-                    <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="500">
+                    <!--<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="500">
                         <a href="#"><img src="images/client-5.png" alt=""></a>
                     </div>
                     <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="600">
