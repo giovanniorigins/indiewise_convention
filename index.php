@@ -1128,7 +1128,7 @@
             window.ourStoryClick = false;
             $('#offcanvas').on('hidden.bs.offcanvas', function (e) {
                 if (window.ourStoryClick) {
-                    $('#ourStory).modal('show');
+                    $('#ourStory').modal('show');
                     window.ourStoryClick = false;
                 }
             });
