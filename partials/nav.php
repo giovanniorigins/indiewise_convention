@@ -57,11 +57,11 @@
                                         <li class="<?= $active === 'register' ? 'active' : '' ?>">
                                             <a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank">Register</a>
                                         </li>
-                                        <li data-toggle="modal" data-target="#scheduleComing">
-                                            <a href="#">Schedule</a>
+                                        <li>
+                                            <a href="https://cdn.filestackcontent.com/lCwuXsDfQ3yiuGkuKK3g" target="_blank">Schedule</a>
                                         </li>
                                         <li class="<?= $active === 'soon' ? 'active' : '' ?>">
-                                            <a href="/soon.php" target="_blank">Book Hotel</a>
+                                            <a href="http://bit.ly/2ogjLI5" target="_blank">Book Hotel</a>
                                         </li>
                                         <li data-toggle="modal" data-target="#ourStory">
                                             <a href="#">Our Story</a>
