@@ -1012,7 +1012,7 @@
 						</div>
 						<div class="image-box shadow text-center">
 							<div class="overlay-container overlay-visible">
-								<img data-fp-src="https://process.filestackapi.com/resize=fit:clip,align:faces,width:400,height:300/mL3gqKWUSxCHOg69kPao?cache=true" data-fp-pixel-round="10" class="img-responsive">
+								<img data-fp-src="./images/AMC.png" data-fp-pixel-round="10" class="img-responsive">
 								<!--<a href="portfolio-item.html" class="overlay-link"><i class="fa fa-link"></i></a>-->
 
 							</div>
