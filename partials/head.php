@@ -5,7 +5,14 @@
     <meta name="author" content="Jerez Bain | IndieWise">
 
     <!-- Mobile Meta -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta property="og:title" content="IndieWise Convention" />
+	<meta name="description" content="You be the judge! IndieWise is a platform that encourages constructive dialog and feedback among viewers, critics, and filmmakers.">
+	<meta property="og:description" content="You be the judge! What you always wanted, feedback!" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<meta property="og:image" content="https://www.filestackapi.com/api/file/BhrXLYZCQ4YQtCPAB8cf" />
+	<meta name="robots" content="ALL">
+	<meta property="fb:app_id" content="150687055270744"/>
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="57x57" href="./apple-touch-icon-57x57.png">
