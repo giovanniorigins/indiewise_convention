@@ -119,7 +119,7 @@
 							<a href="https://cdn.filestackcontent.com/lCwuXsDfQ3yiuGkuKK3g" target="_blank">Schedule</a>
 						</li>
 						<li class="<?= $active === 'soon' ? 'active' : '' ?>">
-							<a href="/soon.php" target="_blank">Book Hotel</a>
+							<a href="http://bit.ly/2ogjLI5" target="_blank">Book Hotel</a>
 						</li>
 						<li onclick="closeCanvas()">
 							<a href="#">Our Story</a>
@@ -1012,7 +1012,7 @@
 						</div>
 						<div class="image-box shadow text-center">
 							<div class="overlay-container overlay-visible">
-								<img data-fp-src="https://process.filestackapi.com/resize=fit:clip,align:faces,width:400,height:300/SLtqix8eRBO7eFAy6o0t?cache=true" data-fp-pixel-round="10" class="img-responsive">
+								<img data-fp-src="https://process.filestackapi.com/resize=fit:scale,align:faces,width:400,height:300/SLtqix8eRBO7eFAy6o0t?cache=true" data-fp-pixel-round="10" class="img-responsive">
 								<!--<a href="portfolio-item.html" class="overlay-link"><i class="fa fa-link"></i></a>-->
 
 							</div>
