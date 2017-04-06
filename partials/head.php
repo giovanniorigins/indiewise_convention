@@ -11,6 +11,7 @@
 	<meta property="og:description" content="You be the judge! What you always wanted, feedback!" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
 	<meta property="og:image" content="https://process.filestackapi.com/resize=fit:clip,width:1000/IUDdor1TS6GD4vnILB2o?cache=true" />
+	<meta property="og:url" content="https://convention.getindiewise.com">
 	<meta name="robots" content="ALL">
 	<meta property="fb:app_id" content="150687055270744"/>
 
