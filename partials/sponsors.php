@@ -34,6 +34,12 @@
                     <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="400">
                         <a href="http://caribbeanfilmfestmarket.com/" target="_blank"><img src="images/HOTEL/caribbean film festival logo.png" alt=""></a>
                     </div>
+                    <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="400">
+                        <a href="" target="_blank"><img src="images/sponsors/Digital 1 Movies PNG.png" alt=""></a>
+                    </div>
+                    <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="400">
+                        <a href="http://southbeachwine.com/" target="_blank"><img src="images/sponsors/LogoHigherResolution.png" alt=""></a>
+                    </div>
                     <!--<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="500">
                         <a href="#"><img src="images/client-5.png" alt=""></a>
                     </div>

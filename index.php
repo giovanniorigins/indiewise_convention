@@ -116,7 +116,7 @@
 							<a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank">Register</a>
 						</li>
 						<li>
-							<a href="https://cdn.filestackcontent.com/lCwuXsDfQ3yiuGkuKK3g" target="_blank">Schedule</a>
+							<a href="https://cdn.filestackcontent.com/wBcIRIfcQpGj5WyoZ6QF" target="_blank">Schedule</a>
 						</li>
 						<li class="<?= $active === 'soon' ? 'active' : '' ?>">
 							<a href="http://bit.ly/2ogjLI5" target="_blank">Book Hotel</a>
@@ -623,18 +623,18 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-sm-3"><!-- Devanny Pinn -->
+						<div class="col-sm-3"><!-- Steve Lane -->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
-									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/7o6eOZ07QeCCQOj8RGbC?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/rubFffkTkysU3kcvIyL0?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
 									<!--<div class="overlay-to-top">
 										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
 									</div>-->
 								</div>
 								<div class="body">
-									<h3>Devanny Pinn</h3>
+									<h3>Steve Lane</h3>
 									<div class="separator"></div>
-									<h5>Jaguar Motion Pictures</h5>
+									<h5>MUSIC PUBLISHER & DISTRIBUTOR EXTRAORDINAIRE</h5>
 									<p></p>
 									<a data-toggle="modal" data-target="#BioModal6" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
 								</div>
@@ -646,17 +646,12 @@
 									<div class="modal-content">
 										<div class="modal-header">
 											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-											<h4 class="modal-title" id="myModalLabel">Devanny Pinn's Bio</h4>
+											<h4 class="modal-title" id="myModalLabel">Steve Lane's Bio</h4>
 										</div>
 										<div class="modal-body">
-											<p>Devanny Pinn is an actress and producer hailing from Los Angeles, California who is best known for her work in independent horror cinema. A performer since the age of 3, Devanny grew up in New Jersey starring in musical and ballet productions. She began college with an Opera scholarship and shortly after landed her first lead role in feature film. She has been working consistently since, having been dubbed a “Scream Queen” by media and appears in over 50 horror films and counting. She has shared the screen with such genre vets as Linda Blair, Kane Hodder, Danny Trejo and Sid Haig and portrayed infamous characters such as Manson family member 'Susan Atkins' and murder suspect 'Casey Anthony'.
-											</p>
-											<p>Having found a love for film behind the camera as well, Devanny wanted to learn more about her business and began producing features. She became VP for an international sales agency and worked in acquisitions for a domestic distribution company. In 2011 she co-founded 'Micro Bay Features' and has produced 8 feature films which are completed and available on various Bluray, DVD and VOD platforms worldwide. Her productions have also received awards and nominations from festivals around the world including "The California Film Awards", "Canada Int Film Festival", "Snowdance", "European Independent Film Festival" and "Action on Film" as well as received support from major trades such as The Hollywood Reporter, Vanity Fair France and Rolling Stone Brazil.
-											</p>
-											<p>Devanny is excited about a transition into the action genre with her new production company Jaguar Motion Pictures. Their upcoming release "Crossbreed" features actress Vivica A. Fox as the first African American woman to ever portray the President of the United States in a film.
-											</p>
-											<p>Devanny intends to branch out into television production next year and continues to assist other filmmakers with development and distribution. She hopes to one day be a major studio executive.
-											</p>
+											<p>With over 18 years’ experience in the music industry, Steve Lane currently serves as the CEO of Digital 1 Media Services Inc. In 2015, he launched Digital 1 Media Services, a first-class platform whereby film makers, artistes and labels, could access the most advanced processes and technologies in film and music distribution, and the administration of music-publishing.</p>
+											<p>Prior to launching this company, he served as the President of LGN Entertainment and Veal-Steen Music Publishing, respectively. The former controls the master rights to, and offers a catalog of over 150,000 (One hundred and fifty thousand) songs; whereas the latter is responsible for publishing said catalog. Steve’s successes are far-reaching, and include a partnership with Bayside Distribution a major distribution company owned by retail giant, Tower Records. LGN was signed to this company (Bayside Distribution), through which over 50 (fifty) labels were distributed. Steve’s global cultural orientation, has led to him securing international sub-publishing agreements with France, Scandinavia, Israel, Africa, Brazil, Spain, Portugal, China, Japan and Italy. He has also built a strong network that allows him to collect foreign royalties and exploit Digital 1 Media Services’ catalog.</p>
+											<p>His technical skills are bolstered by his extensive knowledge of music publishing, digital distribution, music licensing and Bricks & Mortar retail sales. Outside of the technical arena, he oversees day-to-day business operations, and explores opportunities in the catalog, including synchronization licenses for movies, television, commercials and video game placements. He also seeks out opportunities for publishing.</p>
 										</div>
 										<div class="modal-footer">
 											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
@@ -956,6 +951,48 @@
 											<p>
 											Paul partnered with Hagen Rottke in 2012 to bring additional services to his clients with the use of unmanned aerial systems (UAS) for a unique low-level aerial point of view. Now, he is working on expanding the use of these multifunctional aircraft to additional industries and businesses through Miami Aerial.
 											</p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-3"><!-- Paul Morris -->
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/UBiWehQ9TGab7jrAUgAo?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Frederick Tabiyus Nah IV</h3>
+									<div class="separator"></div>
+									<h5>Director &amp; Artist</h5>
+									<p></p>
+									<a data-toggle="modal" data-target="#BioModal16" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal 3 -->
+							<div class="modal fade" id="BioModal16" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Frederick Tabiyus Nah IV' Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p>Frederick Tabiyus Nah IV (Phoenix) is a director & artist who has emerged as a significant force within the entertainment industry. Frederick has been involved in over 70 stage/film productions, directed 20 productions, written 10 productions and choreographed 5 showcases. He has had the privilege to work with mentor/actor Greg Allan Williams, contemporary artist Brian Littrell (Backstreet Boys), "The Heart of Rochelle Foundation," Productions, & Divinity Church International.</p>
+											<p>At the age of 14 Frederick started expanding his gifts through writing, dancing, choreographing, & other performing arts. Frederick received the Regional 7AAAAA Dramatics Arts Medal for his portrayal as Malcolm X. Along with other talents, Frederick performed at Disney Epcot. In 2007 Frederick also had the honor to perform at the Phillips Arena & was inducted into the International Thespian Honors Society. Following graduation in 2008, Frederick was seen in Kenny Leon's True Color's Theater Company Production of The Amen Corner at the Alliance Theater. He was part of the board of directors and a performance coach at CHOZEN Talent Development Agency & held the position as choreographer and director at Perimeter Dramatics Arts Academy where he worked on productions such as Disney Broadway Review, Aladdin & Mulan.</p>
+											<p>Frederick served 8 years as the Director of Music for Divinity Church International. Some of this organization's accomplishments have included participation in Atlanta's 2008 D.I.F.F.A by Design AIDS Charity Benefit, the Consecration of Frederick's father, Bishop Frederick T. Nah, Jr., as well as, working alongside Brian Litrell from Backstreet Boys with the Divinity International Choir. In the summer of 2009, Frederick birthed out of Divinity, Phoenix 4 Productions as CEO/Director has written, directed, and produced 7 musical/dramatic Productions. Frederick Nah produced concerts Night of Jazz & Inspiration and the Annual Voices of Christmas. He has also participated in a few shows, including the CW's The Vampire Diaries, and Sid Roth's It's Supernatural. As an entrepreneur, Frederick opened up DYNAMIC "Cultural Arts & Community Center" to the public where he taught voice, acting, and performance.</p>
+											<p>In 2012 Frederick gained national recognition and was selected to participate in Olivier Campergue's NCAA March Madness commercial ad campaign, "Brackets Everywhere,". The creative campaign that also included Big Boi from OutKast, Conan O'Brien, Kevin Hart, Jonah Hill, Channing Tatum, Anderson Cooper, Wolf Blitzer and HLN'S Robin Meade amongst others, ran across TBS, CBS, TNT and truTV, as well as CNN, HLN, Airport Network, CBS Outernet Partners, and across Turner Digital, which includes SI.com and NCAA.com.</p>
+											<p>Following the success of creative storytelling, In 2013, along with Phoenix 4 Productions Fred partnered with Global Awareness Company One Billion Rising and was the key co-producer and Assistant Director to the highly acclaimed Music Video "Rise Up" directed by Chad Tennies. Frederick joined Trios De Media was selected and part of the Marketing/Advertisement team for the Tony Award winning Musical Production of FELA Produced by Will Smith, Jada Pinkett Smith, and Jay Z when it showcased at the Renowned Fox Theater. In 2014 Frederick & Phoenix 4 Productions won over 11 consecutive awards for short films "Musical Therapy", "Sanity", & "Tragically Beautiful" in Atlanta, GA & Los Angeles. Over the course of these projects Phoenix 4 expanded it' membership to over 50 people sectioned off into their divisions of Film, Music, Dance, Fitness, Post Production, & Writing. He was also selected for a Coca Cola AD.</p>
+											<p>Frederick released his directorial debut for a feature film "BREATHE" in late 2014 early 2015. Recent critic review stated Breathe is "Powerful film of intersecting stories was moving, intellectual, thought provoking, and deserves a wider audience" (Dan's Movie Report)</p>
+											<p>BREATHE was nominated for Best Independent Film at the Georgia World Congress Center & Received 3 nominations at the Mimi Wide Screen Film Festival. Phoenix 4 is scheduled to produce the Highly Anticipated Online Human Trafficking Film "DarkNet". A portion of the proceeds will go towards the movie's campaign "Be The Voice", which will send out rescue missions and shelter for sexual slaves. This year marks Frederick's first motion picture release of When Seasons Change scheduled to film this fall.</p>
 										</div>
 										<div class="modal-footer">
 											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
