@@ -634,7 +634,7 @@
 								<div class="body">
 									<h3>Steve Lane</h3>
 									<div class="separator"></div>
-									<h5>MUSIC PUBLISHER & DISTRIBUTOR EXTRAORDINAIRE</h5>
+									<h5>Digitial 1 Media Services</h5>
 									<p></p>
 									<a data-toggle="modal" data-target="#BioModal6" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
 								</div>
@@ -971,7 +971,7 @@
 								<div class="body">
 									<h3>Frederick Tabiyus Nah IV</h3>
 									<div class="separator"></div>
-									<h5>Director &amp; Artist</h5>
+									<h5>Phoenix 4 Productions</h5>
 									<p></p>
 									<a data-toggle="modal" data-target="#BioModal16" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
 								</div>
