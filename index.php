@@ -1041,6 +1041,44 @@
 							</div>
 						</div>
 					</div>
+					<div class="row">
+						<div class="col-sm-3"> <!-- Snoop Robinson -->
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/Me7gyEQcR3mIK4fwYbgn?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Snoop Robinson</h3>
+									<div class="separator"></div>
+									<h5>Actor | ​Director | Writer | Author</h5>
+									<p></p>
+									<a data-toggle="modal" data-target="#BioModal18" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal 3 -->
+							<div class="modal fade" id="BioModal18" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Snoop Robinson's Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p>Snoop Robinson has pierced the veil of notoriety as a director and creator of short films with his most recent film “Her Eyez,” received the 2015 Excellence Award of Best Film of the Year. Snoop has proven his acumen in both comedic and dramatic roles which is giving him a great platform to work with other moguls in the industry. Snoop is currently at the helm of the entertainment industry with “Bold Evil Liar”, ” Snoop Robinson Sinful Confessions”, “Racial Conscience” and She’s Not Our Sister the stage play launched him the opportunity to showcase his films on The Gospel Music Channel. Additionally, SNOS was the top rated show in GMC network history at the time, which Snoop is constantly developing concepts, scripts and stage setting to bring multiple talents and vibrant work ethic to the entertainment industry</p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 			</section>
 			<!-- section end -->
