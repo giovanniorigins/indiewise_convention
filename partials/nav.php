@@ -67,10 +67,7 @@
                                             <a href="#">Our Story</a>
                                         </li>
                                         <li class="<?= $active === 'contact' ? 'active' : '' ?>">
-                                            <a href="/contact.php">Vendors</a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.eventbrite.com/e/grand-indiewise-convention-vendors-merchandise-and-ads-tickets-35904574549#tickets" target="_blank">Contact Us</a>
+                                            <a href="/contact.php">Contact Us</a>
                                         </li>
                                     </ul>
                                     <!-- main-menu end -->

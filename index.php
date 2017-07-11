@@ -285,17 +285,20 @@
 						<div class="col-md-2 text-center">
 							<a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Register</a>
 						</div>
-						<div class="col-md-3 text-center">
+						<div class="col-md-2 text-center">
 							<a href="https://www.filestackapi.com/api/file/Bwxx5XjRTYSdDOkKlb9V?cache=true" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Become a Sponsor</a>
 						</div>
 						<div class="col-md-2 text-center">
 							<a href="https://www.facebook.com/events/1580028138960728" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Learn More</a>
 						</div>
-						<div class="col-md-3 text-center">
+						<div class="col-md-2 text-center">
 							<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2T8RKYZ4P8L42" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Donate Today</a>
 						</div>
 						<div class="col-md-2 text-center">
 							<a href="http://bit.ly/2ogjLI5" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Book Hotel</a>
+						</div>
+						<div class="col-md-2 text-center">
+							<a href="https://www.eventbrite.com/e/grand-indiewise-convention-vendors-merchandise-and-ads-tickets-35904574549#tickets" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Vendors</a>
 						</div>
 					</div>
 				</div>
