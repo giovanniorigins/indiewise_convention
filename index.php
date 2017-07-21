@@ -295,7 +295,7 @@
 							<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2T8RKYZ4P8L42" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Donate Today</a>
 						</div>
 						<div class="col-md-4 text-center">
-							<a href="https://cdn.filestackcontent.com/0dxKxiSTUOnB4Tm8GtNU?cache=true" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Programme 2017</a>
+							<a href="http://bit.ly/2ogjLI5" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Book Hotel</a>
 						</div>
 						<div class="col-md-4 text-center">
 							<a href="https://www.eventbrite.com/e/grand-indiewise-convention-vendors-merchandise-and-ads-tickets-35904574549#tickets" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Vendors</a>
