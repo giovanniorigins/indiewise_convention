@@ -349,6 +349,234 @@
 			<!-- section end -->
 
 			<!-- section -->
+			<!-- Celebrity Guests -->
+			<!-- ================ -->
+			<section class="pv-30 padding-bottom-clear">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<h2 class="text-center"><strong>Celebrity Guests of Honor</strong></h2>
+							<div class="separator"></div>
+							<br>
+						</div>
+					</div>
+				</div>
+				<div class="space-bottom">
+					<div class="row">
+						<div class="col-sm-3"><!-- Luis Guzman -->
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/wmL373fWSOKU9oU5IZp0?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Luis Guzman</h3>
+									<div class="separator"></div>
+									<h5>Actor - Boogie Nights, Code Black, Carlito's Way, etc.</h5>
+									<p></p>
+										<a href="http://www.imdb.com/name/nm0350079/bio?ref_=nm_ov_bio_sm" target="_blank" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal c1 -->
+							<div class="modal fade" id="BioModal-c1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Luis Guzman's Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p>Just a cool, short Bahamian dude with a tall ego...
+												<br><br>
+
+												#NuffSaid
+											</p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-3"><!-- Cemi Guzman -->
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/kft03EaJSBLJESF7RPgQ?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Cemi Guzman</h3>
+									<div class="separator"></div>
+									<h5>Producer - Hold On</h5>
+									<p></p>
+									<a href="http://www.imdb.com/name/nm6123069/bio" target="_blank" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal c2 -->
+							<div class="modal fade" id="BioModal-c2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Cemi Guzman's Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p>Jamie Lee Smith, a native of Colorado, holds degrees in both Political Science & International Relations. Jamie Lee began her career in the music industry.  Grateful for those opportunities, she would next utilize her experiences to transition into the development of a production company "Global Rockstar Productions" and found that she had a talent for film making.
+												She has grown Global Rockstar Productions into a reputable part of the film making community with contributions to films such as Jumper, Battle Los Angeles, 51, Up in the Air, Death House, Montana Sky, Pirates of the Caribbean, Mirror Mirror, Blood Out, Things we do for Love, Jack Reacher.  Global Rockstar Productions has also been involved with such TV series as The Philanthropist, CSI, Real Housewives, various reality shows, Chicago Fire and NCIS: New Orleans.
+											</p>
+											<p>Most recently, Jamie Lee has expended into independent film making as An Executive Producer, Producer and Assistant director. Her first independent film, Seven Deadly Words, has been highly awarded, winning more accolades than any other faith-based film.  In 2015 she went onto make Losing Breen, 2016 Shadow of the Missing and is currently working on her forth independent film while still running Global Rockstar Productions.
+												When not working on films, Jamie Lee travels the world speaking at conferences for women, entrepreneurs and young filmmakers.
+											</p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-3"><!-- Lea Black -->
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/ozk0p6vQS3CJW91bi2mC?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Lea Black</h3>
+									<div class="separator"></div>
+									<h5>Author, Philanthropist, Reality TV Star</h5>
+									<p></p>
+									<a data-toggle="modal" data-target="#BioModal-c3" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal c3 -->
+							<div class="modal fade" id="BioModal-c3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Lea Black's Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p>
+												Mother, wife, philanthropist, author, television personality, charity and political fundraiser and entrepreneur. On most days, you will find her juggling all of these duties on her near surgically-attached smart phone.
+											</p>
+
+											<p>
+												A Texas native, she moved to Miami in the late 1980's and brought with her an unbridled passion and compassion, dynamism and focus, business acumen and civic responsibility, that together has left an indelible mark on Miami. As head of a home, a business and community leader, she believes woman can accomplish whatever they set their minds to and what they are passionate about. Lea has a prominent role on the current “Real Housewives of Miami” and has had numerous appearances on CNN HLN; EXTRA; The Today Show; WWHL; KTLA; NBC6 Miami; Bettheny – No Limits; and many other national news, entertainment and radio shows. She also blogs for the Huffington Post; OK Magazine; Haute Living Magazine; Palm Beach Woman; E Online; The World of Lea Black; LeaBlackInk; and has been a guest writer for various other websites and magazines.
+											</p>
+
+											<p>
+												Outspoken and uncompromising in her beliefs, Lea divides her time between fulfilling her philanthropic missions centered around at-risk children and teens, and furthering her international business interests with her health, beauty, accessory and jewelry endeavors.
+											</p>
+
+											<p>
+												Her charity work in Miami began twenty years ago when she founded THE BLACKS’ ANNUAL GALA, a yearly event unparalleled in both its success in raising money for its causes, and in its magnetism to attract A-list entertainers Aretha Franklin, Lil Wayne, Queen Latifah, Tony Bennett, Diane Warwick, Patti Labelle, Natalie Cole, Barry Gibb, Pit Bull, Pharrell Williams and Rick Ross, to name a few) who generously donated their performances. All of the Charity’s efforts, as well as all of the monies raised are used to provide at-risk youth with educational resources, vocational training, and creative and cultural outlets.
+											</p>
+
+											<p>
+												Lea’s business focus for more than twenty years has at its core the health, beauty, and wellness of women everywhere. She has an unparalleled track record of success in developing and marketing beauty products.
+												In 2010 she co-founded and co-launched Andre Walker Hair Products with Oprah’s stylist. Her Sudden Youth instant facelift kit was featured on Amazing Discovery’s as a top rated infomercial. She has recently added to the Sudden Youth, an array of skin care products featuring a daily face wash, everyday moisture, advanced anti-aging serum, skin revitalizing exfoliant and advanced anti-aging serum. Her previous beauty company had over 400 beauty products, including the highly successful fragrance “Jazz” which was sold to YSL. To share her beauty secrets with women everywhere, she authored the book “Beauty from Within”. In addition, Lea is also the author of the new novel, “Red Carpets & White Lies”, available in bookstores, Amazon and Barnes & Noble.com. A fictional story praised by pop culture trendsetters and award winning authors. Page Six article declares Lea Black “the next Jackie Collins”.
+											</p>
+
+											<p>
+												Perhaps her most challenging, rewarding and important role is that of CEO of the Black Family household.
+
+												Behind this ‘great woman’ are actually two great men: her intelligent and adventurous 15-year old son RJ, and her husband, famed civil and criminal defense attorney, Roy Black, who finds that on most days, it is far easier to get the last word in the courtroom than in the family’s living room.
+
+												Lastly, but of no less importance, Lea is actively involved in politics. She has hosted fundraisers for President Obama, who personally called her to host his very first fundraiser in the State of Florida, as well as, VP Joe Biden, NY US Rep. Charlie Rangle, US Congressman John Conyers Jr., US Sen. Al Franken, US Sen. Claire McCaskill, US Sen. Harry Reid, Governor Charlie Crist, Nancy Pelosi when she was the Majority Leader in the U.S. House of Representatives and others.
+
+												She bases out of Miami and Los Angeles, spending summers and holidays with her family at their home in the Hollywood Hills, Los Angeles.
+
+												www.leablack.com
+
+											</p>
+
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-3"><!-- Khalilah Ali -->
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/WWugASxSxCQUcuftJ5tU?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Khalilah Ali</h3>
+									<div class="separator"></div>
+									<h5>Former Wife of Boxing Legend Muhammad Ali</h5>
+									<p></p>
+									<a href="https://en.wikipedia.org/wiki/Khalilah_Ali" target="_blank" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal c4 -->
+							<div class="modal fade" id="BioModal-c4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Khalilah Ali's Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p>
+												William (“Bill”) Grefé is a true pioneer of Florida independent filmmaking and legendary cult movie director.  As a youth, he attended the University of Miami on a Dramatic scholarship, and then went on to act in Summer Stock in Woodstock, New York.  During the Korean War, he proudly served in the U.S. Navy.
+											</p><p>
+												He then turned his talents toward writing and filmmaking, writing and directing his first feature: The Checkered Flag filmed in Miami.  His second film, Racing Fever, again realized Bill as director/producer/screenwriter.
+											</p><p>
+												Throughout the ‘60s/’70s, Bill directed some of the best and most highly regarded cult and horror films of the fabled Grindhouse era, beginning with a trio of 1966 cult classics: Death Curse of Tartu, Sting of Death, and the former lost film The Devil’s Sisters.  Death Curse of Tartu is a favorite creature feature among monster movie enthusiasts.  The Devil’s Sisters, for decades regarded as a “lost film”, enjoyed a resurgence of interest and popularity as a film print was discovered in Germany in 2013.
+											</p><p>
+												Grefé rounded out the ‘60s with another threesome of counter-culture curiosities: The Hooked Generation, The Naked Zoo (starring Rita Hayworth), and The Psychedelic Priest.
+											</p><p>
+												As the ‘70s dawned, Grefé turned back to horror exploitation, most notably in the beloved nature-run-amok sub-genre, beginning with the 1972 hit Stanley, which remains his signature film.  Stanley is hailed as one of the great nature-run-amok features, hissing the slithery story of a disassociated Vietnam veteran who possesses a kinship with rattlesnakes, and who uses this bond to wreak havoc on his bipedal enemies.  In select theaters during time of initial release, Stanley out-grossed the Academy Award winner The Godfather.
+											</p><p>
+												In 1975, Grefé followed up Stanley’s success of with the psychological horror film Impulse, starring William Shatner, Harold “Odd Job” Sakata, Ruth Roman, and the lovely Jennifer Bishop (who would again star for Bill in his next feature Mako: Jaws of Death).  Impulse was filmed entirely in Tampa, Florida and showcases William “Captain Kirk” Shatner in what many fans believe to be his best non-Star Trek role as “Matt Stone”, a deranged, pinkie finger-chewing con man out to steal the stately inheritance of a distraught widow.
+											</p><p>
+												In the wake of the success of Jaws, Grefé let loose his cinematic Kraken Mako: Jaws of Death, a screenplay that he actually wrote before that blockbuster was released.  A triumphant return to the nature-run-amok genre that served him so well with Stanley, Sting of Death (a “Jellyfish Monster”) and Death Curse of Tartu (featuring attacks by nature’s creatures, including a snake, alligator and shark), Mako was yet another box-office and critical hit in Grefé’s burgeoning pantheon of films.  Bill’s last proper cult feature was the 1977 exploitationer Whiskey Mountain, which rode the popularity wave of southern road movies of the time, due to hits such as Smokey and the Bandit.
+											</p><p>
+												Post Whiskey Mountain, Bill produced and directed 20+ half hour films for Bacardi rum, and over 50 commercials.
+											</p><p>
+												In 1985, Bill crowned his illustrious career by producing the famed Cease Fire with Don Johnson, not just a commercial success, but a fulfilling work that honored all Vietnam War veterans.
+											</p><p>
+												In addition to Bill’s feature film omnibus, he also served as President and Head of Production of South Florida’s Ivan Tours Studios, famous at the time for the Flipper and Gentle Ben television shows.  He is also noted for having directed second unit on the 1974 James Bond picture Live and Let Die, filmed partially in Florida.  He has since been the recipient of numerous awards and honors for his contributions to Florida motion pictures and cinema in general, including: A Certificate of Appreciation from the Mayor of Dade County, awarded by the University of Miami Film Association, given a key to the city of North Miami, elected to the Miami Edison Hall of Fame, named by the Entertainment Revue as “The Man Who is Florida Films”, and had his features screened at countless honorary events and film festivals, including: the Ft. Lauderdale Film Festival, the Gasparilla International Film Festival (Tampa), and the New Beverly Cinema at the request of Quentin Tarantino.  Bill has also spoken before attendees of the Cannes Film Festival and at the France TV Festival in Nice.
+											</p><p>
+												Bill resides in sunny South Florida with his lovely wife Grace and his large and wonderful family.  He continues to be a very active filmmaker, having directed the short film Consider Us Even in 2014.  He regularly makes event appearances for his fans, is a goodwill ambassador for cult movie entertainment, and does filmmaking/distribution seminars and lectures.  All of William Grefé’s films are in worldwide distribution, and as his cinematic legend grows, so will the popularity of his motion pictures.
+											</p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- section end -->
+			<!-- section -->
+
 			<!-- Speakers -->
 			<!-- ================ -->
 			<section class="pv-30 padding-bottom-clear">
@@ -798,18 +1026,18 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-sm-3"><!-- Gui Popp-->
+						<div class="col-sm-3"><!-- Edward Pollard-->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
-									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/08ziXviSRjqpFCv61N33?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/4wJ5oVlaQRGTlhcHpsWB?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
 									<!--<div class="overlay-to-top">
 										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
 									</div>-->
 								</div>
 								<div class="body">
-									<h3>Gui Popp</h3>
+									<h3>Edward Pollard</h3>
 									<div class="separator"></div>
-									<h5>Paradise Key Media</h5>
+									<h5>360 Entertainment</h5>
 									<p></p>
 									<a data-toggle="modal" data-target="#BioModal11" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
 								</div>
@@ -821,10 +1049,10 @@
 									<div class="modal-content">
 										<div class="modal-header">
 											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-											<h4 class="modal-title" id="myModalLabel">Gui Popp's Bio</h4>
+											<h4 class="modal-title" id="myModalLabel">Edward Pollard's Bio</h4>
 										</div>
 										<div class="modal-body">
-											<p>It was in Sao Paulo Brazil where Gui Popp held his first camera. He was fascinated by all the actions of each button and lens rotation as he tried to manage the giant Beta Cam with his tiny 9 year old body. Over the years it was this technical finesse - along with the creative freedom of photography - that drove Gui's passion into a career where every day he is able to witness, capture, create and collaborate within the space around him. It is this natural ability to always see the beauty in life with a wide smile and distinguished laugh that got him to where he is. He attracts those around him to enjoy his craft with the same energy that facilitates the collaboration of his team's composition. Today he is helping lead this team into a future where creative opportunity will flourish with the tools of Virtual and Augment Reality, in preparation for the next venture that his passions lead. "Paradise is a state of mind and I am able to find mine while helping others' find theirs.</p>
+											<p>Edward Pollard is a computer engineer with over 20yrs experience in the field. His knowledge of Virtual Reality has made him a sought after resource in the world of film production due to the recent development of 360 video. Edward has worked on many 360 projects for both major brands and independent film makers. Edward has also applied his engineering background to develop new ways of capturing 360 content. As a strong proponent of 360 video production Edward strives to be an active resource in this ever evolving medium.</p>
 										</div>
 										<div class="modal-footer">
 											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
@@ -834,33 +1062,33 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-sm-3"><!-- Jared Jacobs -->
+						<div class="col-sm-3"> <!-- Snoop Robinson -->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
-									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/NUA3BDFORC2sLMVTnyju?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/Me7gyEQcR3mIK4fwYbgn?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
 									<!--<div class="overlay-to-top">
 										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
 									</div>-->
 								</div>
 								<div class="body">
-									<h3>Jared Jacobs</h3>
+									<h3>Snoop Robinson</h3>
 									<div class="separator"></div>
-									<h5>Paradise Key Media</h5>
+									<h5>Actor | ​Director | Writer | Author</h5>
 									<p></p>
-									<a data-toggle="modal" data-target="#BioModal12" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+									<a data-toggle="modal" data-target="#BioModal18" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
 								</div>
 							</div>
 
 							<!-- Bio Modal 3 -->
-							<div class="modal fade" id="BioModal12" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+							<div class="modal fade" id="BioModal18" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 								<div class="modal-dialog">
 									<div class="modal-content">
 										<div class="modal-header">
 											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-											<h4 class="modal-title" id="myModalLabel">Jared Jacobs' Bio</h4>
+											<h4 class="modal-title" id="myModalLabel">Snoop Robinson's Bio</h4>
 										</div>
 										<div class="modal-body">
-											<p>Jared’s life can be summed up easily by his profession of choice; it’s virtually reality, which means... it’s not quite reality. He has been chasing dreams for so long he has completely lost sight of what most consider “reality." But that’s not to say he hasn’t matured or grown as most people in the other reality might conclude. Nay! He has found entire communities of adventurous, illustrious and progressive dream-seekers who have been creating and sharing their own realities within this common reality we all choose to accept and live in. Jared's enterprising outlook has lead him deep into the Dystopian realities of Megadeth with Universal Studios, carried him through natural paradise with Carnival Cruise Lines and FRS, and landed him at the nexus of nearly every local environmental organization in Miami. "There are many keys to finding one's paradise. I still think it should have a palm tree."</p>
+											<p>Snoop Robinson has pierced the veil of notoriety as a director and creator of short films with his most recent film “Her Eyez,” received the 2015 Excellence Award of Best Film of the Year. Snoop has proven his acumen in both comedic and dramatic roles which is giving him a great platform to work with other moguls in the industry. Snoop is currently at the helm of the entertainment industry with “Bold Evil Liar”, ” Snoop Robinson Sinful Confessions”, “Racial Conscience” and She’s Not Our Sister the stage play launched him the opportunity to showcase his films on The Gospel Music Channel. Additionally, SNOS was the top rated show in GMC network history at the time, which Snoop is constantly developing concepts, scripts and stage setting to bring multiple talents and vibrant work ethic to the entertainment industry</p>
 										</div>
 										<div class="modal-footer">
 											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
@@ -1045,33 +1273,35 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-sm-3"> <!-- Snoop Robinson -->
+						<div class="col-sm-3"><!-- Kelvin Garmon -->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
-									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/Me7gyEQcR3mIK4fwYbgn?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/StgajjmyQmubD2dzph0g?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
 									<!--<div class="overlay-to-top">
 										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
 									</div>-->
 								</div>
 								<div class="body">
-									<h3>Snoop Robinson</h3>
+									<h3>Kelvin Garmon</h3>
 									<div class="separator"></div>
-									<h5>Actor | ​Director | Writer | Author</h5>
+									<h5>Former NFL Player with Dallas Cowboys</h5>
 									<p></p>
-									<a data-toggle="modal" data-target="#BioModal18" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+									<a href="http://www.nfl.com/player/kelvingarmon/2500764/profile" target="_blank" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
 								</div>
 							</div>
 
 							<!-- Bio Modal 3 -->
-							<div class="modal fade" id="BioModal18" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+							<!--<div class="modal fade" id="BioModal17" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 								<div class="modal-dialog">
 									<div class="modal-content">
 										<div class="modal-header">
 											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-											<h4 class="modal-title" id="myModalLabel">Snoop Robinson's Bio</h4>
+											<h4 class="modal-title" id="myModalLabel">Kelvin Garmon's Bio</h4>
 										</div>
 										<div class="modal-body">
-											<p>Snoop Robinson has pierced the veil of notoriety as a director and creator of short films with his most recent film “Her Eyez,” received the 2015 Excellence Award of Best Film of the Year. Snoop has proven his acumen in both comedic and dramatic roles which is giving him a great platform to work with other moguls in the industry. Snoop is currently at the helm of the entertainment industry with “Bold Evil Liar”, ” Snoop Robinson Sinful Confessions”, “Racial Conscience” and She’s Not Our Sister the stage play launched him the opportunity to showcase his films on The Gospel Music Channel. Additionally, SNOS was the top rated show in GMC network history at the time, which Snoop is constantly developing concepts, scripts and stage setting to bring multiple talents and vibrant work ethic to the entertainment industry</p>
+											<p>Doug Schwab, President and Founder of Maverick, was born and raised in New Orleans, Louisiana. With over 38 years in the home entertainment industry, Schwab has established himself as a leader in independent film distribution and as a champion for independent filmmakers everywhere.</p>
+											<p>Schwab has launched over 800 feature films since Maverick’s inception and now controls the largest library of African American themed feature length films in the world. He utilized the expertise and contacts he gained as a Blockbuster buyer to initially develop Maverick and now leads creation, promotion, and distribution efforts for various genres within the independent film category. Schwab and Maverick maintain an impeccable reputation within the industry and with filmmakers worldwide.</p>
+											<p>Following Schwab’s vision, Maverick serves as a pipeline between independent filmmakers and movie fans everywhere. Unlike major movie studios, Maverick releases a consistent and constant supply of films consumers wish to view. Through relationships and output deals, Maverick can distribute its films across all media platforms so film lovers can watch Maverick movies when and where they choose.</p>
 										</div>
 										<div class="modal-footer">
 											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
@@ -1079,7 +1309,7 @@
 										</div>
 									</div>
 								</div>
-							</div>
+							</div>-->
 						</div>
 					</div>
 				</div>
