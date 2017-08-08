@@ -1273,7 +1273,7 @@
 						</div>
 					</div>
 					<!--<div class="row">
-						<div class="col-sm-3"><!-- Kelvin Garmon -->
+						<div class="col-sm-3"><!-- Kelvin Garmon -
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
 									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/StgajjmyQmubD2dzph0g?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
@@ -1290,7 +1290,7 @@
 								</div>
 							</div>
 
-							<!-- Bio Modal 3 -->
+							<!-- Bio Modal 3 --
 							<div class="modal fade" id="BioModal17" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 								<div class="modal-dialog">
 									<div class="modal-content">
