@@ -1272,46 +1272,6 @@
 							</div>
 						</div>
 					</div>
-					<!--<div class="row">
-						<div class="col-sm-3"><!-- Kelvin Garmon -
-							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
-								<div class="overlay-container">
-									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/StgajjmyQmubD2dzph0g?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
-									<!--<div class="overlay-to-top">
-										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
-									</div>-->
-								</div>
-								<div class="body">
-									<h3>Kelvin Garmon</h3>
-									<div class="separator"></div>
-									<h5>Former NFL Player with Dallas Cowboys</h5>
-									<p></p>
-									<a href="http://www.nfl.com/player/kelvingarmon/2500764/profile" target="_blank" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
-								</div>
-							</div>
-
-							<!-- Bio Modal 3 --
-							<div class="modal fade" id="BioModal17" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-								<div class="modal-dialog">
-									<div class="modal-content">
-										<div class="modal-header">
-											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-											<h4 class="modal-title" id="myModalLabel">Kelvin Garmon's Bio</h4>
-										</div>
-										<div class="modal-body">
-											<p>Doug Schwab, President and Founder of Maverick, was born and raised in New Orleans, Louisiana. With over 38 years in the home entertainment industry, Schwab has established himself as a leader in independent film distribution and as a champion for independent filmmakers everywhere.</p>
-											<p>Schwab has launched over 800 feature films since Maverick’s inception and now controls the largest library of African American themed feature length films in the world. He utilized the expertise and contacts he gained as a Blockbuster buyer to initially develop Maverick and now leads creation, promotion, and distribution efforts for various genres within the independent film category. Schwab and Maverick maintain an impeccable reputation within the industry and with filmmakers worldwide.</p>
-											<p>Following Schwab’s vision, Maverick serves as a pipeline between independent filmmakers and movie fans everywhere. Unlike major movie studios, Maverick releases a consistent and constant supply of films consumers wish to view. Through relationships and output deals, Maverick can distribute its films across all media platforms so film lovers can watch Maverick movies when and where they choose.</p>
-										</div>
-										<div class="modal-footer">
-											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
-											<button type="button" class="btn btn-sm btn-default">Save changes</button>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>-->
 				</div>
 			</section>
 			<!-- section end -->
