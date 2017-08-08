@@ -1272,7 +1272,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="row">
+					<!--<div class="row">
 						<div class="col-sm-3"><!-- Kelvin Garmon -->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
@@ -1291,7 +1291,7 @@
 							</div>
 
 							<!-- Bio Modal 3 -->
-							<!--<div class="modal fade" id="BioModal17" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+							<div class="modal fade" id="BioModal17" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 								<div class="modal-dialog">
 									<div class="modal-content">
 										<div class="modal-header">
@@ -1305,13 +1305,13 @@
 										</div>
 										<div class="modal-footer">
 											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
-											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+											<button type="button" class="btn btn-sm btn-default">Save changes</button>
 										</div>
 									</div>
 								</div>
-							</div>-->
+							</div>
 						</div>
-					</div>
+					</div>-->
 				</div>
 			</section>
 			<!-- section end -->
