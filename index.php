@@ -516,7 +516,7 @@
 						<div class="col-sm-3"><!-- Khalilah Ali -->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
-									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/WWugASxSxCQUcuftJ5tU?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/HMAHpPpTbOpFj4iM0dig?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
 									<!--<div class="overlay-to-top">
 										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
 									</div>-->
