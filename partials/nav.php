@@ -102,7 +102,7 @@
 				</p><p>
 					Realizing the demand for additional outlets of expression, and the facilitation of learning and networking for artists and filmmakers, and furthermore, knowing the joy creative minds experience when seeing their work delivered on the big screen, in front of a live audience, Knowles took it upon himself to launch what is known as the Grand IndieWise Convention. The vision and purpose of the IndieWise Convention is “to provide a platform for exposure, feedback, and expression, while inspiring the creative mind.”
 				</p><p>
-					The IndieWise Team is proud to announce its inaugural Grand Convention, August 24-27, 2017 in South Florida, where 300+ films will be screened at the AMC Aventura Theatre, attracting 600+ Filmmakers and Industry Professionals from 120+ Countries. Prepare for the time of your life, as we experience 4 days of: Networking, a Mega Yacht Party, Workshops, Master Classes, Guest Speakers, Motivation, Pitch Sessions, Live Entertainment, Charity Fundraising, Blue Carpet Photo Ops, and a Pool & Beach Party!
+					The IndieWise Team is beyond proud to present its Grand Convention, August 24-27, 2017 in South Florida, where around 250 films will be screened at the AMC Aventura Theatre, attracting 400+ Filmmakers and Industry Professionals from nearly 80 Countries. Prepare for the time of your life, as we experience 4 days of: Networking, a Mega Yacht Party, Workshops, Master Classes, Guest Speakers, Motivation, Pitch Sessions, Live Entertainment, Charity Fundraising, Blue Carpet Photo Ops, and a Pool & Beach Party!
 				</p><p>
 					We certainly hope you’re as excited as we are!
 				</p>
