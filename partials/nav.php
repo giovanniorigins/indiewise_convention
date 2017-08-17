@@ -58,7 +58,7 @@
                                             <a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank">Register</a>
                                         </li>
                                         <li>
-                                            <a href="https://cdn.filestackcontent.com/kNlCfTSqTzG9m6K7ZaJX?cache=true" target="_blank">Schedule</a>
+                                            <a href="" target="_blank">2017 Screenings</a>
                                         </li>
                                         <li>
                                             <a href="https://cdn.filestackcontent.com/0dxKxiSTUOnB4Tm8GtNU?cache=true" target="_blank">Programme 2017</a>
