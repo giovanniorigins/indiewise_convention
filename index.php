@@ -116,7 +116,7 @@
 							<a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank">Register</a>
 						</li>
 						<li>
-							<a href="https://cdn.filestackcontent.com/kNlCfTSqTzG9m6K7ZaJX?cache=true" target="_blank">Schedule</a>
+							<a href="https://cdn.filestackcontent.com/maidXNcRuq5pkm8KsnsA?cache=true" target="_blank">Screenings</a>
 						</li>
 						<li>
 							<a href="https://cdn.filestackcontent.com/0dxKxiSTUOnB4Tm8GtNU?cache=true" target="_blank">Programme 2017</a>
@@ -1434,10 +1434,10 @@
 									<div class="sib-container rounded">
 
 										<input type="hidden" name="req_hid" id="req_hid" value="" style="font-size: 13px; font-family: &quot;Trebuchet MS&quot;, Verdana, Tahoma, Geneva, sans-serif;">
-										<div class="header" style="padding:0 20px;">
+										<!--<div class="header" style="padding:0 20px;">
 											<h1 class="title editable" data-editfield="newsletter_name"  style="font-weight: normal; text-align: left; font-size: 45px; margin-bottom: 2px; padding: 0px; margin-top: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(35, 35, 35); display: none;">My Newsletter</h1>
 											<h3 id="company-name"  style="font-weight: normal; text-align: left; font-size: 25px; margin-bottom: 12px; padding: 0px; margin-top: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(52, 52, 52); display: none;">By</h3>
-										</div>
+										</div>-->
 										<div class="description editable" data-editfield="newsletter_description"  style="padding: 0px 20px 15px; border-bottom: 1px solid rgb(204, 204, 204); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(52, 52, 52); font-size: 17px; display: block;">Subscribe to get future updates about the IndieWise Convention - We promise not to spam you!</div>
 										<div class="view-messages" style=" margin:5px 0;"> </div>
 										<!-- an email as primary -->
