@@ -31,14 +31,17 @@
                     <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="300">
                         <a href="https://getindiewise.com" target="_blank"><img src="https://getindiewise.com/assets/img/Logo_alt2.png" class="img-responsive" alt="IndieWise"></a>
                     </div>
-                    <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="400">
+                    <!--<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="400">
                         <a href="http://caribbeanfilmfestmarket.com/" target="_blank"><img src="images/HOTEL/caribbean film festival logo.png" alt=""></a>
-                    </div>
+                    </div>-->
                     <!--<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="400">
                         <a href="http://d1ms.org" target="_blank"><img src="images/sponsors/Digital 1 Movies PNG.png" alt=""></a>
                     </div>-->
                     <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="400">
                         <a href="http://southbeachwine.com/" target="_blank"><img src="images/sponsors/LogoHigherResolution.png" alt=""></a>
+                    </div>
+                    <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="400">
+                        <a href="https://www.facebook.com/drlowens305/" target="_blank"><img src="images/sponsors/CHIRO_LOGO.png" alt=""></a>
                     </div>
                     <!--<div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="500">
                         <a href="#"><img src="images/client-5.png" alt=""></a>
