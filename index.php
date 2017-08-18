@@ -1433,11 +1433,11 @@
 									<input type="hidden" name="js_id" id="js_id" value="2kq42"><input type="hidden" name="listid" id="listid" value="5"><input type="hidden" name="from_url" id="from_url" value="yes"><input type="hidden" name="hdn_email_txt" id="hdn_email_txt" value="">
 									<div class="sib-container rounded">
 
-										<input type="hidden" name="req_hid" id="req_hid" value="~Captcha" style="font-size: 13px; font-family: &quot;Trebuchet MS&quot;, Verdana, Tahoma, Geneva, sans-serif;">
-										<!--<div class="header" style="padding:0 20px;">
-                                            <h1 class="title editable" data-editfield="newsletter_name"  style="font-weight: normal; text-align: left; font-size: 45px; margin-bottom: 2px; padding: 0px; margin-top: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(35, 35, 35); display: none;">My Newsletter</h1>
-                                            <h3 id="company-name"  style="font-weight: normal; text-align: left; font-size: 25px; margin-bottom: 12px; padding: 0px; margin-top: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(52, 52, 52); display: none;">By</h3>
-                                        </div>-->
+										<input type="hidden" name="req_hid" id="req_hid" value="" style="font-size: 13px; font-family: &quot;Trebuchet MS&quot;, Verdana, Tahoma, Geneva, sans-serif;">
+										<div class="header" style="padding:0 20px;">
+											<h1 class="title editable" data-editfield="newsletter_name"  style="font-weight: normal; text-align: left; font-size: 45px; margin-bottom: 2px; padding: 0px; margin-top: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(35, 35, 35); display: none;">My Newsletter</h1>
+											<h3 id="company-name"  style="font-weight: normal; text-align: left; font-size: 25px; margin-bottom: 12px; padding: 0px; margin-top: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(52, 52, 52); display: none;">By</h3>
+										</div>
 										<div class="description editable" data-editfield="newsletter_description"  style="padding: 0px 20px 15px; border-bottom: 1px solid rgb(204, 204, 204); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(52, 52, 52); font-size: 17px; display: block;">Subscribe to get future updates about the IndieWise Convention - We promise not to spam you!</div>
 										<div class="view-messages" style=" margin:5px 0;"> </div>
 										<!-- an email as primary -->
@@ -1453,7 +1453,7 @@
 											</div>
 
 										</div>
-										<div class="captcha forms-builder-group" style="display: block;"><div class="row" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(52, 52, 52); font-size: 17px; padding: 10px 20px;"><div id="gcaptcha" style="transform: scale(1); margin-left: 0px;"></div></div></div>
+										<div class="captcha forms-builder-group" style="display: none;"><div class="row" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(52, 52, 52); font-size: 17px; padding: 10px 20px;"><div id="gcaptcha" style="transform: scale(1); margin-left: 0px;"></div></div></div>
 
 										<!-- end of primary -->
 										<div class="byline" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(52, 52, 52); font-weight: bold; font-size: 16px; text-align: center; display: block;">
@@ -1480,7 +1480,7 @@
                                 //Render the recaptcha1 on the element with ID "recaptcha1"
                                 if($('.captcha > div.row > div#gcaptcha').length > 0) {
                                     var captcha = grecaptcha.render('gcaptcha', {
-                                        'sitekey' : '6Lf7dRkUAAAAAJG9PNNLbqr5LJAbsw2HGD14ZIyS',
+                                        'sitekey' : '6LezqRkUAAAAACOopT30XBwc1_-zbarrSr8FIjXU',
                                         'theme' : 'light',
                                         'callback' : verifyCallback,
                                     });
