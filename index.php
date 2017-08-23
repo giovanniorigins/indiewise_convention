@@ -116,10 +116,10 @@
 							<a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank">Register</a>
 						</li>
 						<li>
-							<a href="https://cdn.filestackcontent.com/SbsTQmtASQqEiqyvju3u?cache=true" target="_blank">Screenings</a>
+							<a href="https://cdn.filestackcontent.com/C74MZCdORa21nuQd99eH?cache=true" target="_blank">Screenings</a>
 						</li>
 						<li>
-							<a href="https://cdn.filestackcontent.com/qbmNfqqZSPqjBy4Y7iCP?cache=true" target="_blank">Programme 2017</a>
+							<a href="https://cdn.filestackcontent.com/vjLCgTjBRfCpX0Z9YZBm?cache=true" target="_blank">Programme 2017</a>
 						</li>
 						<li onclick="closeCanvas()">
 							<a href="#">Our Story</a>
