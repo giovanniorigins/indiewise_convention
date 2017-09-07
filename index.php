@@ -289,7 +289,7 @@
 							<a href="https://www.filestackapi.com/api/file/Bwxx5XjRTYSdDOkKlb9V?cache=true" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Become a Sponsor</a>
 						</div>
 						<div class="col-md-4 text-center">
-							<a href="https://www.facebook.com/events/1580028138960728" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Learn More</a>
+							<a href="https://facebook.com/getindiewise/photos" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Learn More</a>
 						</div>
 						<div class="col-md-4 text-center">
 							<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2T8RKYZ4P8L42" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Donate Today</a>
