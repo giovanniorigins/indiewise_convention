@@ -854,44 +854,6 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-sm-3"><!-- Steve Lane -->
-							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
-								<div class="overlay-container">
-									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/rubFffkTkysU3kcvIyL0?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
-									<!--<div class="overlay-to-top">
-										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
-									</div>-->
-								</div>
-								<div class="body">
-									<h3>Steve Lane</h3>
-									<div class="separator"></div>
-									<h5>Digitial 1 Media Services</h5>
-									<p></p>
-									<a data-toggle="modal" data-target="#BioModal6" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
-								</div>
-							</div>
-
-							<!-- Bio Modal 3 -->
-							<div class="modal fade" id="BioModal6" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-								<div class="modal-dialog">
-									<div class="modal-content">
-										<div class="modal-header">
-											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-											<h4 class="modal-title" id="myModalLabel">Steve Lane's Bio</h4>
-										</div>
-										<div class="modal-body">
-											<p>With over 18 years’ experience in the music industry, Steve Lane currently serves as the CEO of Digital 1 Media Services Inc. In 2015, he launched Digital 1 Media Services, a first-class platform whereby film makers, artistes and labels, could access the most advanced processes and technologies in film and music distribution, and the administration of music-publishing.</p>
-											<p>Prior to launching this company, he served as the President of LGN Entertainment and Veal-Steen Music Publishing, respectively. The former controls the master rights to, and offers a catalog of over 150,000 (One hundred and fifty thousand) songs; whereas the latter is responsible for publishing said catalog. Steve’s successes are far-reaching, and include a partnership with Bayside Distribution a major distribution company owned by retail giant, Tower Records. LGN was signed to this company (Bayside Distribution), through which over 50 (fifty) labels were distributed. Steve’s global cultural orientation, has led to him securing international sub-publishing agreements with France, Scandinavia, Israel, Africa, Brazil, Spain, Portugal, China, Japan and Italy. He has also built a strong network that allows him to collect foreign royalties and exploit Digital 1 Media Services’ catalog.</p>
-											<p>His technical skills are bolstered by his extensive knowledge of music publishing, digital distribution, music licensing and Bricks & Mortar retail sales. Outside of the technical arena, he oversees day-to-day business operations, and explores opportunities in the catalog, including synchronization licenses for movies, television, commercials and video game placements. He also seeks out opportunities for publishing.</p>
-										</div>
-										<div class="modal-footer">
-											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
-											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
 						<div class="col-sm-3"><!-- Aaron Johnson -->
 							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
 								<div class="overlay-container">
@@ -921,6 +883,44 @@
 											<p>Driven. Focused. Motivated. These words are synonymous with high achievers, but they are just the tip of the iceberg in describing Aaron Johnson. A child prodigy by the age of 9-years-old, his quest to build a media empire encompasses everything from shooting movies to editing them. Born and raised in Miami, FL, the city’s cultural diversities has laid the foundation for Aaron’s artistic proclivities and powerful creations. With a love for telling stories and a plethora of resources to pull from in South Beach, he finds spontaneous inspiration from his surroundings on a daily basis. Making films that impact the minds and emotions of his viewers, his influential style of moviemaking is a visual representation of the talents he has honed over the years. His first professional project, Lost, which he crafted at the age of the 13-years-old, opened to rave reviews in AMC Theatres during the Wide-Screen Film & Music Festival with over 500 people in attendance. A go-getter for sure, Aaron is serious when it comes to his career, dreams, and goals. With a growing fan base of loyal supporters, his vision is to leave a lasting legacy that changes the worlds of individuals through his ability to live out his passions by way of his gifts. Aaron believes that you are never too young to pursue your purpose. “You are the only person that can stop you from achieving that goal or that dream.” Johnson’s objectives extend beyond establishing himself as a media mogul. He understands the importance of giving back. Aaron plans to mentor filmmakers through a training program for youth that empowers them to follow their passions, just as he was able to follow his six years ago. Aaron has a heart for story telling and has parlayed that ability into a niche in the entertainment industry. With a work ethic that keeps him creating constantly, he is a rising star with no sigh of tiring in sight.</p>
 
 
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
+											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-3"><!-- Paul Morris -->
+							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
+								<div class="overlay-container">
+									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/cuAADk0SfqpZqhVUIhEt?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
+									<!--<div class="overlay-to-top">
+										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
+									</div>-->
+								</div>
+								<div class="body">
+									<h3>Doug Schwab</h3>
+									<div class="separator"></div>
+									<h5>Maverick Entertainment Group</h5>
+									<p></p>
+									<a data-toggle="modal" data-target="#BioModal17" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
+								</div>
+							</div>
+
+							<!-- Bio Modal 3 -->
+							<div class="modal fade" id="BioModal17" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+											<h4 class="modal-title" id="myModalLabel">Doug Schwab's Bio</h4>
+										</div>
+										<div class="modal-body">
+											<p>Doug Schwab, President and Founder of Maverick, was born and raised in New Orleans, Louisiana. With over 38 years in the home entertainment industry, Schwab has established himself as a leader in independent film distribution and as a champion for independent filmmakers everywhere.</p>
+											<p>Schwab has launched over 800 feature films since Maverick’s inception and now controls the largest library of African American themed feature length films in the world. He utilized the expertise and contacts he gained as a Blockbuster buyer to initially develop Maverick and now leads creation, promotion, and distribution efforts for various genres within the independent film category. Schwab and Maverick maintain an impeccable reputation within the industry and with filmmakers worldwide.</p>
+											<p>Following Schwab’s vision, Maverick serves as a pipeline between independent filmmakers and movie fans everywhere. Unlike major movie studios, Maverick releases a consistent and constant supply of films consumers wish to view. Through relationships and output deals, Maverick can distribute its films across all media platforms so film lovers can watch Maverick movies when and where they choose.</p>
 										</div>
 										<div class="modal-footer">
 											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
@@ -1224,44 +1224,6 @@
 											<p>Following the success of creative storytelling, In 2013, along with Phoenix 4 Productions Fred partnered with Global Awareness Company One Billion Rising and was the key co-producer and Assistant Director to the highly acclaimed Music Video "Rise Up" directed by Chad Tennies. Frederick joined Trios De Media was selected and part of the Marketing/Advertisement team for the Tony Award winning Musical Production of FELA Produced by Will Smith, Jada Pinkett Smith, and Jay Z when it showcased at the Renowned Fox Theater. In 2014 Frederick & Phoenix 4 Productions won over 11 consecutive awards for short films "Musical Therapy", "Sanity", & "Tragically Beautiful" in Atlanta, GA & Los Angeles. Over the course of these projects Phoenix 4 expanded it' membership to over 50 people sectioned off into their divisions of Film, Music, Dance, Fitness, Post Production, & Writing. He was also selected for a Coca Cola AD.</p>
 											<p>Frederick released his directorial debut for a feature film "BREATHE" in late 2014 early 2015. Recent critic review stated Breathe is "Powerful film of intersecting stories was moving, intellectual, thought provoking, and deserves a wider audience" (Dan's Movie Report)</p>
 											<p>BREATHE was nominated for Best Independent Film at the Georgia World Congress Center & Received 3 nominations at the Mimi Wide Screen Film Festival. Phoenix 4 is scheduled to produce the Highly Anticipated Online Human Trafficking Film "DarkNet". A portion of the proceeds will go towards the movie's campaign "Be The Voice", which will send out rescue missions and shelter for sexual slaves. This year marks Frederick's first motion picture release of When Seasons Change scheduled to film this fall.</p>
-										</div>
-										<div class="modal-footer">
-											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
-											<!--<button type="button" class="btn btn-sm btn-default">Save changes</button>-->
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="col-sm-3"><!-- Paul Morris -->
-							<div class="image-box style-2 mb-20 bordered dark-bg text-center">
-								<div class="overlay-container">
-									<img data-fp-src="https://process.filestackapi.com/resize=fit:crop,align:faces,width:400,height:300/cuAADk0SfqpZqhVUIhEt?cache=true" data-fp-pixel-round="10" class="img-responsive" alt="">
-									<!--<div class="overlay-to-top">
-										<p class="small margin-clear"><em>Some info <br> Lorem ipsum dolor sit</em></p>
-									</div>-->
-								</div>
-								<div class="body">
-									<h3>Doug Schwab</h3>
-									<div class="separator"></div>
-									<h5>Maverick Entertainment Group</h5>
-									<p></p>
-									<a data-toggle="modal" data-target="#BioModal17" class="btn btn-gray-transparent btn-animated btn-sm margin-clear">View Bio<i class="fa fa-arrow-right pl-10"></i></a>
-								</div>
-							</div>
-
-							<!-- Bio Modal 3 -->
-							<div class="modal fade" id="BioModal17" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-								<div class="modal-dialog">
-									<div class="modal-content">
-										<div class="modal-header">
-											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-											<h4 class="modal-title" id="myModalLabel">Doug Schwab's Bio</h4>
-										</div>
-										<div class="modal-body">
-											<p>Doug Schwab, President and Founder of Maverick, was born and raised in New Orleans, Louisiana. With over 38 years in the home entertainment industry, Schwab has established himself as a leader in independent film distribution and as a champion for independent filmmakers everywhere.</p>
-											<p>Schwab has launched over 800 feature films since Maverick’s inception and now controls the largest library of African American themed feature length films in the world. He utilized the expertise and contacts he gained as a Blockbuster buyer to initially develop Maverick and now leads creation, promotion, and distribution efforts for various genres within the independent film category. Schwab and Maverick maintain an impeccable reputation within the industry and with filmmakers worldwide.</p>
-											<p>Following Schwab’s vision, Maverick serves as a pipeline between independent filmmakers and movie fans everywhere. Unlike major movie studios, Maverick releases a consistent and constant supply of films consumers wish to view. Through relationships and output deals, Maverick can distribute its films across all media platforms so film lovers can watch Maverick movies when and where they choose.</p>
 										</div>
 										<div class="modal-footer">
 											<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>
