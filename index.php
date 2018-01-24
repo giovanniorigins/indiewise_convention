@@ -1442,7 +1442,7 @@
                                 //Render the recaptcha1 on the element with ID "recaptcha1"
                                 if($('.captcha > div.row > div#gcaptcha').length > 0) {
                                     var captcha = grecaptcha.render('gcaptcha', {
-                                        'sitekey' : '6LezqRkUAAAAACOopT30XBwc1_-zbarrSr8FIjXU',
+                                        'sitekey' : '6Lf7dRkUAAAAAJG9PNNLbqr5LJAbsw2HGD14ZIyS',
                                         'theme' : 'light',
                                         'callback' : verifyCallback,
                                     });

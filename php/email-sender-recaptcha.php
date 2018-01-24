@@ -7,8 +7,8 @@ header('Content-type: application/json');
 $Recipient = 'set_your_email_here@domain.com'; // <-- Set your email here
 
 // Register API keys at https://www.google.com/recaptcha/admin
-$siteKey = "";
-$secret = "";
+$siteKey = "6Lf7dRkUAAAAAJG9PNNLbqr5LJAbsw2HGD14ZIyS";
+$secret = "6Lf7dRkUAAAAACTC-gwmj1HgYM7wbGV4uCBSNPrJ";
 
 // reCAPTCHA supported 40+ languages listed here: https://developers.google.com/recaptcha/docs/language
 $lang = "en";
