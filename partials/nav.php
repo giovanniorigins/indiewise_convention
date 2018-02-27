@@ -55,14 +55,14 @@
                                             <a href="/">Home</a>
                                         </li>
                                         <li class="<?= $active === 'register' ? 'active' : '' ?>">
-                                            <a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank">Register</a>
+                                            <a href="https://www.eventbrite.com/e/grand-indiewise-convention-2018-ticket-packages-tickets-43579445294#tickets" target="_blank">Register</a>
                                         </li>
                                         <li>
-                                            <a href="https://cdn.filestackcontent.com/C74MZCdORa21nuQd99eH?cache=true" target="_blank">Screenings</a>
+                                            <a href="#" data-toggle="modal" data-target="#comingSoon">Screenings 2018</a>
                                         </li>
-                                        <!--<li>
-                                            <a href="https://cdn.filestackcontent.com/vjLCgTjBRfCpX0Z9YZBm?cache=true" target="_blank">Programme 2018</a>
-                                        </li>-->
+                                        <li>
+		                                    <a href="#" data-toggle="modal" data-target="#comingSoon">Programme 2018</a>
+	                                    </li>
                                         <li data-toggle="modal" data-target="#ourStory">
                                             <a href="#">Our Story</a>
                                         </li>
@@ -116,15 +116,15 @@
 </div>
 
 <!-- Schedule Modal -->
-<div class="modal fade" id="scheduleComing" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal fade" id="comingSoon" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 	<div class="modal-dialog">
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-				<h4 class="modal-title" id="myModalLabel">Schedule</h4>
+				<h4 class="modal-title" id="myModalLabel">Coming Soon</h4>
 			</div>
 			<div class="modal-body">
-				<p>New Schedule Coming Wednesday March 29 at 12 Noon EST</p>
+				<p>This information is not available yet, please check again later. Thanks!</p>
 			</div>
 			<div class="modal-footer">
 				<button type="button" class="btn btn-sm btn-dark" data-dismiss="modal">Close</button>

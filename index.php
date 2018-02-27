@@ -151,12 +151,12 @@
 								<!-- ================ -->
 								<li class="text-center" data-transition="fade" data-slotamount="1" data-masterspeed="500" data-saveperformance="off">
 
-									<img src="http://i3.ytimg.com/vi/MwU4RM8epng/maxresdefault.jpg"
+									<!--<img src="http://i3.ytimg.com/vi/MwU4RM8epng/maxresdefault.jpg"
 									     alt="Ocean"
 									     class="rev-slidebg"
 									     data-bgposition="center center"
 									     data-bgfit="cover"
-									     data-bgrepeat="no-repeat">
+									     data-bgrepeat="no-repeat">-->
 
 									<!-- BACKGROUND VIDEO LAYER -->
 									<div class="rs-background-video-layer"
@@ -165,7 +165,7 @@
 									     data-forcerewind="on"
 									     data-nextslideatend="true"
 									     data-videoloop="loopandnoslidestop"
-									     data-videoattributes="version=3&enablejsapi=1&html5=1&hd=1&wmode=opaque&showinfo=0&rel=0&
+									     data-videoattributes="version=3&enablejsapi=1&html5=1&hd=1&wmode=opaque&showinfo=0&rel=0&&autoplay=1
          origin=<?php echo $_SERVER['HTTP_HOST']; ?>"
 
 									></div>
