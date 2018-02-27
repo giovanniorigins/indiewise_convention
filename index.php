@@ -113,7 +113,7 @@
 							<a href="/">Home</a>
 						</li>
 						<li class="<?= $active === 'register' ? 'active' : '' ?>">
-							<a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank">Register</a>
+							<a href="https://www.eventbrite.com/e/grand-indiewise-convention-2018-ticket-packages-tickets-43579445294#tickets" target="_blank">Register</a>
 						</li>
 						<li>
 							<a href="https://cdn.filestackcontent.com/C74MZCdORa21nuQd99eH?cache=true" target="_blank">Screenings</a>
@@ -151,108 +151,24 @@
 								<!-- ================ -->
 								<li class="text-center" data-transition="fade" data-slotamount="1" data-masterspeed="500" data-saveperformance="off">
 
-									<!-- main image -->
-									<img src="images/iw2017.jpg" alt="slidebg1" data-bgposition="center top"  data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+									<img src="http://i3.ytimg.com/vi/MwU4RM8epng/maxresdefault.jpg"
+									     alt="Ocean"
+									     class="rev-slidebg"
+									     data-bgposition="center center"
+									     data-bgfit="cover"
+									     data-bgrepeat="no-repeat">
 
-									<!-- Transparent Background -->
-									<div class="tp-caption dark-translucent-bg"
-									     data-x="center"
-									     data-y="center"
-									     data-start="0"
-									     data-transform_in="opacity:0;s:600;e:Power2.easeInOut;"
-									     data-transform_out="opacity:0;s:600;s:300;"
-									     data-width="5000"
-									     data-height="5000">
-									</div>
+									<!-- BACKGROUND VIDEO LAYER -->
+									<div class="rs-background-video-layer"
+									     data-ytid="MwU4RM8epng"
+									     data-volume="100"
+									     data-forcerewind="on"
+									     data-nextslideatend="true"
+									     data-videoloop="loopandnoslidestop"
+									     data-videoattributes="version=3&enablejsapi=1&html5=1&hd=1&wmode=opaque&showinfo=0&rel=0&
+         origin=<?php echo $_SERVER['HTTP_HOST']; ?>"
 
-									<!-- LAYER NR. 1 -->
-									<div class="tp-caption large_white"
-									     data-x="center"
-									     data-y="100"
-									     data-start="0"
-									     data-transform_idle="o:1;"
-									     data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power4.easeInOut;"
-									     data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-									     data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
-									     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">
-										<span class="logo-font">Grand <span class="text-default">IndieWise</span> Convention</span>
-									</div>
-
-									<!-- SUB-LAYER NR. 1-->
-									<div class="tp-caption medium_white"
-									     data-x="center"
-									     data-y="145"
-									     data-start="400"
-									     data-transform_idle="o:1;"
-									     data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power4.easeInOut;"data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-									     data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
-									     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">August 9-12, 2018
-									</div>
-
-									<!-- LAYER NR. 2 -->
-									<div class="tp-caption large_white tp-resizeme"
-									     data-x="center"
-									     data-y="160"
-									     data-start="100"
-									     data-transform_idle="o:1;"
-									     data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
-									     data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;">
-										<div class="separator light"></div>
-									</div>
-
-									<!-- LAYER NR. 3 -->
-									<div class="tp-caption large_white"
-									     data-x="center"
-									     data-y="190"
-									     data-start="200"
-									     data-transform_idle="o:1;"
-									     data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power4.easeInOut;"
-									     data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-									     data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
-									     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">
-										<a href="https://www.eventbrite.com/e/grand-indiewise-convention-package-deals-single-event-passes-tickets-32982861627#tickets" target="_blank">
-											<span class="text-rotator" data-rotator-animation-effect="fadeIn">
-												<strong>REGISTER</strong>
-											</span>
-										</a>
-									</div>
-
-									<!-- LAYER NR. 4 -->
-									<div class="tp-caption large_white tp-resizeme"
-									     data-x="center"
-									     data-y="230"
-									     data-start="300"
-									     data-transform_idle="o:1;"
-									     data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;">
-										<div class="separator light"></div>
-									</div>
-
-									<!-- LAYER NR. 5 -->
-									<div class="tp-caption medium_white"
-									     data-x="center"
-									     data-y="270"
-									     data-start="400"
-									     data-transform_idle="o:1;"
-									     data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power4.easeInOut;"data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-									     data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
-									     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">Registration Begins March 2018
-										<br><small style="font-size: 60%">Miami, Florida</small>
-									</div>
-
-									<!-- LAYER NR. 5 -->
-									<div class="tp-caption"
-									     data-x="center"
-									     data-y="bottom"
-									     data-voffset="100"
-									     data-start="500"
-									     data-transform_idle="o:1;"
-									     data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-									     data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
-									     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">
-										<a href="#page-start" class="btn btn-lg moving smooth-scroll"><i class="icon-down-open-big"></i><i class="icon-down-open-big"></i><i class="icon-down-open-big"></i></a>
-									</div>
-								</li>
-								<!-- slide 1 end -->
+									></div>
 
 							</ul>
 							<div class="tp-bannertimer"></div>
@@ -295,10 +211,10 @@
 							<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2T8RKYZ4P8L42" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Donate Today</a>
 						</div>
 						<div class="col-md-4 text-center">
-							<a href="http://bit.ly/2ogjLI5" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Book Hotel</a>
+							<a href="#" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Book Hotel</a>
 						</div>
 						<div class="col-md-4 text-center">
-							<a href="https://www.eventbrite.com/e/grand-indiewise-convention-vendors-merchandise-and-ads-tickets-35904574549#tickets" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Vendors</a>
+							<a href="#" target="_blank" class="btn btn-default-transparent btn-lg btn-hvr hvr-radial-out">Vendors</a>
 						</div>
 					</div>
 				</div>
@@ -351,7 +267,7 @@
 			<!-- section -->
 			<!-- Celebrity Guests -->
 			<!-- ================ -->
-			<section class="pv-30 padding-bottom-clear">
+			<section class="pv-30 padding-bottom-clear hidden" >
 				<div class="container">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">

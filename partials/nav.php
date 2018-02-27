@@ -60,9 +60,9 @@
                                         <li>
                                             <a href="https://cdn.filestackcontent.com/C74MZCdORa21nuQd99eH?cache=true" target="_blank">Screenings</a>
                                         </li>
-                                        <li>
-                                            <a href="https://cdn.filestackcontent.com/vjLCgTjBRfCpX0Z9YZBm?cache=true" target="_blank">Programme 2017</a>
-                                        </li>
+                                        <!--<li>
+                                            <a href="https://cdn.filestackcontent.com/vjLCgTjBRfCpX0Z9YZBm?cache=true" target="_blank">Programme 2018</a>
+                                        </li>-->
                                         <li data-toggle="modal" data-target="#ourStory">
                                             <a href="#">Our Story</a>
                                         </li>
@@ -100,9 +100,9 @@
 				<p>
 					April 18, 2015 saw the birth of IndieWise. "There are so many creative minds, but certainly not enough outlets to facilitate and inspire them", according to Founder & Chairman, Jarrod A Knowles. This extraordinary platform, coded and crafted by CTO and Lead Developer, Jerez Bain, seeks to provide a unique outlet, where every filmmaker has a voice and the opportunity for expression and constructive criticism.
 				</p><p>
-					Realizing the demand for additional outlets of expression, and the facilitation of learning and networking for artists and filmmakers, and furthermore, knowing the joy creative minds experience when seeing their work delivered on the big screen, in front of a live audience, Knowles took it upon himself to launch what is known as the Grand IndieWise Convention. The vision and purpose of the IndieWise Convention is “to provide a platform for exposure, feedback, and expression, while inspiring the creative mind.”
+					Realizing the demand for additional outlets of expression, and the facilitation of learning and networking for artists and filmmakers, and furthermore, knowing the joy creative minds experience when seeing their work delivered on the big screen, in front of a live audience, Knowles took it upon himself to launch what is known as the Grand IndieWise Convention. The mission of the Grand IndieWise Convention is to, "Empower the Artist"
 				</p><p>
-					The IndieWise Team is beyond proud to present its Grand Convention, August 24-27, 2017 in South Florida, where around 250 films will be screened at the AMC Aventura Theatre, attracting 400+ Filmmakers and Industry Professionals from nearly 80 Countries. Prepare for the time of your life, as we experience 4 days of: Networking, a Mega Yacht Party, Workshops, Master Classes, Guest Speakers, Motivation, Pitch Sessions, Live Entertainment, Charity Fundraising, Blue Carpet Photo Ops, and a Pool & Beach Party!
+					The IndieWise Team is beyond proud to present its Grand Convention, August 9-12, 2018 in Miami, Florida, where around 200 films will be screened at the AMC Aventura Theatre, attracting 400+ Filmmakers and Industry Professionals from nearly 80 Countries. Prepare for the time of your life, as we experience 4 days of: Networking, a Mega Yacht Party, Workshops, Master Classes, Guest Speakers, Motivation, Pitch Sessions, Live Entertainment, Charity Fundraising, Blue Carpet Photo Ops, and a Pool & Beach Party!
 				</p><p>
 					We certainly hope you’re as excited as we are!
 				</p>
