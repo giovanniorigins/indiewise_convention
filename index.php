@@ -165,7 +165,7 @@
 									     data-forcerewind="on"
 									     data-nextslideatend="true"
 									     data-videoloop="loopandnoslidestop"
-									     data-videoattributes="version=3&enablejsapi=1&html5=1&hd=1&wmode=opaque&showinfo=0&rel=0&autoplay=1&
+									     data-videoattributes="version=3&enablejsapi=1&html5=1&hd=1&wmode=opaque&showinfo=0&rel=0&
          origin=<?php echo $_SERVER['HTTP_HOST']; ?>"
 
 									></div>
